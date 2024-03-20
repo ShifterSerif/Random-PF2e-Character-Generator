@@ -2,11 +2,23 @@ const fs = require('fs');
 
 let charLevel = 1;
 let spellcaster = false;
+let spellsTradition = "";
 let stats = [0, 0, 0, 0, 0, 0];
 let statNames = ["Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma"];
 let skills = [["Acrobatics", "untrained"], ["Arcana", "untrained"], ["Athletics", "untrained"], ["Crafting", "untrained"], ["Deception", "untrained"], ["Diplomacy", "untrained"], ["Intimidation", "untrained"], ["Medicine", "untrained"], ["Nature", "untrained"], ["Occultism", "untrained"], ["Performance", "untrained"], ["Religion", "untrained"], ["Society", "untrained"], ["Stealth", "untrained"], ["Survival", "untrained"], ["Thievery", "untrained"], ["Perception", "untrained"]];
 let saves = [["Fortitude", "untrained"], ["Reflex", "untrained"], ["Will", "untrained"]];
-let spells = [];
+let spellListCantrips = [" Cantrips:"];
+let spellListRank1 = ["\n","  Rank 1:"];
+let spellListRank2 = ["\n","  Rank 2:"];
+let spellListRank3 = ["\n","  Rank 3:"];
+let spellListRank4 = ["\n","  Rank 4:"];
+let spellListRank5 = ["\n","  Rank 5:"];
+let spellListRank6 = ["\n","  Rank 6:"];
+let spellListRank7 = ["\n","  Rank 7:"];
+let spellListRank8 = ["\n","  Rank 8:"];
+let spellListRank9 = ["\n","  Rank 9:"];
+let spellListRank10 = ["\n","  Rank 10:"];
+let spellList = [spellListCantrips, spellListRank1, spellListRank2, spellListRank3, spellListRank4, spellListRank5, spellListRank6, spellListRank7, spellListRank8, spellListRank9, spellListRank10];
 let genFeatAmount = 0;
 let skillFeatAmount = 0;
 let ancestryFeatAmount = 0;
@@ -54,7 +66,7 @@ console.log("Ancestry Feats: " + ancestryFeats);
 console.log("Class Feats: " + classFeats);
 console.log("General Feats: " + generalFeats);
 console.log("Skill Feats: " + skillFeats);
-if(spellcaster){ console.log("Spells: " + spells); }
+if(spellcaster){ console.log("Spells: " + spellList); }
 console.log("Your gender is: " + gender);
 
 
@@ -137,12 +149,14 @@ function getCharacterClass() {
     let keyAbilityChoices = [];
     const fileData = fs.readFileSync('aon-data/classes.json', 'utf8');
     const classes = JSON.parse(fileData);
-    // const randomIndex = Math.floor(Math.random() * classes.length);
-    const randomIndex = 22; // for testing purposes
+    const randomIndex = Math.floor(Math.random() * classes.length);
     const randomClassName = classes[randomIndex].name;
     
     //Check if spellcaster
-    if (classes[randomIndex].tradition != "") { spellcaster = true; }
+    if (classes[randomIndex].tradition != "") { 
+        spellcaster = true; 
+        spellsTradition = classes[randomIndex].tradition;    //Does not accout for classes that choose tradition
+    }
     
     //HP
     hp += parseInt(classes[randomIndex].hp);
@@ -332,11 +346,6 @@ function getAncestryFeats() {
     return ancestryFeatAmount;
 }
 
-function getSpells() {
-    
-    
-}
-
 function getRandomSpell(tradition, rank, spell_type){
     const fileData = fs.readFileSync('aon-data/spells/' + spell_type + '.json', 'utf8');
     const spells = JSON.parse(fileData);
@@ -353,3 +362,79 @@ function getRandomSpell(tradition, rank, spell_type){
     
     return randomSpell;
 }
+
+function getSpells() {
+    const fileData = fs.readFileSync('aon-data/spellcaster.json', 'utf8');
+    const spellTable = JSON.parse(fileData);
+    
+    let classSpellProgression;
+    
+    for (let i = 0; i < spellTable.length; i++) {
+        if (spellTable[i].class == charClass && spellTable[i].level == charLevel) {
+            classSpellProgression = spellTable[i];
+            break;
+        }
+    }
+    
+    for (let i = 0; i < classSpellProgression.cantrip; i++) {
+        spellListCantrips.push(getRandomSpell(spellsTradition, 1, "Cantrip"));
+    }
+    for (let i = 0; i < classSpellProgression.rank1; i++) {
+        spellListRank1.push(getRandomSpell(spellsTradition, 1, "Spell"));
+    }
+    spellList = [spellListCantrips, spellListRank1]
+    if (charLevel >= 3) {
+        for (let i = 0; i < classSpellProgression.rank2; i++) {
+            spellListRank2.push(getRandomSpell(spellsTradition, 2, "Spell"));
+        }
+        spellList = [spellListCantrips, spellListRank1, spellListRank2]
+        if (charLevel >= 5) {
+            for (let i = 0; i < classSpellProgression.rank3; i++) {
+                spellListRank3.push(getRandomSpell(spellsTradition, 3, "Spell"));
+            }
+            spellList = [spellListCantrips, spellListRank1, spellListRank2, spellListRank3]
+            if (charLevel >= 7) {
+                for (let i = 0; i < classSpellProgression.rank4; i++) {
+                    spellListRank4.push(getRandomSpell(spellsTradition, 4, "Spell"));
+                }
+                spellList = [spellListCantrips, spellListRank1, spellListRank2, spellListRank3, spellListRank4]
+                if (charLevel >= 9) {
+                    for (let i = 0; i < classSpellProgression.rank5; i++) {
+                        spellListRank5.push(getRandomSpell(spellsTradition, 5, "Spell"));
+                    }
+                    spellList = [spellListCantrips, spellListRank1, spellListRank2, spellListRank3, spellListRank4, spellListRank5]
+                    if (charLevel >= 11) {
+                        for (let i = 0; i < classSpellProgression.rank6; i++) {
+                            spellListRank6.push(getRandomSpell(spellsTradition, 6, "Spell"));
+                        }
+                        spellList = [spellListCantrips, spellListRank1, spellListRank2, spellListRank3, spellListRank4, spellListRank5, spellListRank6]
+                        if (charLevel >= 13) {
+                            for (let i = 0; i < classSpellProgression.rank7; i++) {
+                                spellListRank7.push(getRandomSpell(spellsTradition, 7, "Spell"));
+                            }
+                            spellList = [spellListCantrips, spellListRank1, spellListRank2, spellListRank3, spellListRank4, spellListRank5, spellListRank6, spellListRank7]
+                            if (charLevel >= 15) {
+                                for (let i = 0; i < classSpellProgression.rank8; i++) {
+                                    spellListRank8.push(getRandomSpell(spellsTradition, 8, "Spell"));
+                                }
+                                spellList = [spellListCantrips, spellListRank1, spellListRank2, spellListRank3, spellListRank4, spellListRank5, spellListRank6, spellListRank7, spellListRank8]
+                                if (charLevel >= 17) {
+                                    for (let i = 0; i < classSpellProgression.rank9; i++) {
+                                        spellListRank9.push(getRandomSpell(spellsTradition, 9, "Spell"));
+                                    }
+                                    spellList = [spellListCantrips, spellListRank1, spellListRank2, spellListRank3, spellListRank4, spellListRank5, spellListRank6, spellListRank7, spellListRank8, spellListRank9]
+                                    if (charLevel >= 19) {
+                                        for (let i = 0; i < classSpellProgression.rank10; i++) {
+                                            spellListRank10.push(getRandomSpell(spellsTradition, 10, "Spell"));
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }  
+                }
+            }
+        }
+    }
+}
+
