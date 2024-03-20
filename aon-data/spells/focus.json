@@ -1,1 +1,2655 @@
-[{"name":"Lay on Hands","rank":"1","tradition":"","trait":"Champion, Healing, Necromancy, Positive, Uncommon, Focus","rarity":"Uncommon"},{"name":"Ki Rush","rank":"1","tradition":"","trait":"Monk, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Ki Strike","rank":"1","tradition":"","trait":"Monk, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Ancestral Memories","rank":"1","tradition":"","trait":"Divination, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Angelic Halo","rank":"1","tradition":"","trait":"Abjuration, Aura, Good, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Diabolic Edict","rank":"1","tradition":"","trait":"Enchantment, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Dragon Claws","rank":"1","tradition":"","trait":"Morph, Sorcerer, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Elemental Toss","rank":"1","tradition":"","trait":"Attack, Evocation, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Faerie Dust","rank":"1","tradition":"","trait":"Enchantment, Mental, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Glutton's Jaw","rank":"1","tradition":"","trait":"Morph, Necromancy, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Jealous Hex","rank":"1","tradition":"","trait":"Curse, Necromancy, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Tentacular Limbs","rank":"1","tradition":"","trait":"Morph, Sorcerer, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Undeath's Blessing","rank":"1","tradition":"","trait":"Necromancy, Negative, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Call of the Grave","rank":"1","tradition":"","trait":"Arcane, Attack, Necromancy, Uncommon, Wizard, Focus","rarity":"Uncommon"},{"name":"Diviner's Sight","rank":"1","tradition":"","trait":"Concentrate, Divination, Fortune, Uncommon, Wizard, Focus","rarity":"Uncommon"},{"name":"Physical Boost","rank":"1","tradition":"","trait":"Transmutation, Uncommon, Wizard, Focus","rarity":"Uncommon"},{"name":"Warped Terrain","rank":"1","tradition":"","trait":"Illusion, Uncommon, Visual, Wizard, Focus","rarity":"Uncommon"},{"name":"Adapt Self","rank":"1","tradition":"","trait":"Morph, Transmutation, Focus","rarity":"Common"},{"name":"Winter Bolt","rank":"1","tradition":"","trait":"Attack, Cold, Evocation, Focus","rarity":"Common"},{"name":"Withering Grasp","rank":"1","tradition":"","trait":"Necromancy, Negative, Focus","rarity":"Common"},{"name":"Hyperfocus","rank":"1","tradition":"","trait":"Divination, Focus","rarity":"Common"},{"name":"Parch","rank":"1","tradition":"","trait":"Air, Evocation, Focus","rarity":"Common"},{"name":"Oathkeeper's Insignia","rank":"1","tradition":"","trait":"Conjuration, Focus","rarity":"Common"},{"name":"Redact","rank":"1","tradition":"","trait":"Transmutation, Focus","rarity":"Common"},{"name":"Charged Javelin","rank":"1","tradition":"","trait":"Attack, Electricity, Evocation, Focus","rarity":"Common"},{"name":"Divine Plagues","rank":"1","tradition":"","trait":"Disease, Necromancy, Focus","rarity":"Common"},{"name":"Share Burden","rank":"1","tradition":"","trait":"Abjuration, Mental, Focus","rarity":"Common"},{"name":"Lament","rank":"1","tradition":"","trait":"Auditory, Emotion, Enchantment, Mental, Focus","rarity":"Common"},{"name":"Eject Soul","rank":"1","tradition":"","trait":"Incapacitation, Necromancy, Focus","rarity":"Common"},{"name":"Zenith Star","rank":"1","tradition":"","trait":"Divination, Light, Focus","rarity":"Common"},{"name":"Swarmsense","rank":"1","tradition":"","trait":"Divination, Focus","rarity":"Common"},{"name":"Delay Consequence","rank":"1","tradition":"","trait":"Abjuration, Focus","rarity":"Common"},{"name":"Object Memory","rank":"1","tradition":"","trait":"Divination, Focus","rarity":"Common"},{"name":"Empty Inside","rank":"1","tradition":"","trait":"Abjuration, Mental, Focus","rarity":"Common"},{"name":"Draconic Barrage","rank":"1","tradition":"","trait":"Evocation, Focus","rarity":"Common"},{"name":"Ancestral Touch","rank":"1","tradition":"","trait":"Cursebound, Emotion, Enchantment, Fear, Mental, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Brain Drain","rank":"1","tradition":"","trait":"Cursebound, Enchantment, Mental, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Call to Arms","rank":"1","tradition":"","trait":"Auditory, Cursebound, Emotion, Enchantment, Mental, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Incendiary Aura","rank":"1","tradition":"","trait":"Cursebound, Evocation, Fire, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Life Link","rank":"1","tradition":"","trait":"Cursebound, Healing, Necromancy, Oracle, Positive, Uncommon, Focus","rarity":"Uncommon"},{"name":"Soul Siphon","rank":"1","tradition":"","trait":"Cursebound, Necromancy, Negative, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Spray of Stars","rank":"1","tradition":"","trait":"Cursebound, Evocation, Fire, Light, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Tempest Touch","rank":"1","tradition":"","trait":"Cold, Cursebound, Evocation, Oracle, Uncommon, Water, Focus","rarity":"Uncommon"},{"name":"Snare Hopping","rank":"1","tradition":"","trait":"Conjuration, Ranger, Teleportation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Dim the Light","rank":"1","tradition":"","trait":"Darkness, Evocation, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Genie's Veil","rank":"1","tradition":"","trait":"Abjuration, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Nymph's Token","rank":"1","tradition":"","trait":"Enchantment, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Sepulchral Mask","rank":"1","tradition":"","trait":"Divination, Emotion, Mental, Sorcerer, Uncommon, Visual, Focus","rarity":"Uncommon"},{"name":"Touch of Corruption","rank":"1","tradition":"","trait":"Champion, Necromancy, Negative, Uncommon, Focus","rarity":"Uncommon"},{"name":"Split the Tongue","rank":"1","tradition":"","trait":"Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Lift Nature's Caul","rank":"1","tradition":"","trait":"Fear, Illusion, Uncommon, Visual, Focus","rarity":"Uncommon"},{"name":"Rejuvenating Flames","rank":"1","tradition":"","trait":"Fire, Healing, Necromancy, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Stumbling Curse","rank":"1","tradition":"","trait":"Curse, Hex, Transmutation, Uncommon, Witch, Focus","rarity":"Uncommon"},{"name":"Dimensional Assault","rank":"1","tradition":"","trait":"Conjuration, Magus, Teleportation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Force Fang","rank":"1","tradition":"","trait":"Evocation, Force, Magus, Uncommon, Focus","rarity":"Uncommon"},{"name":"Shielding Strike","rank":"1","tradition":"","trait":"Abjuration, Magus, Uncommon, Focus","rarity":"Uncommon"},{"name":"Shooting Star","rank":"1","tradition":"","trait":"Divination, Magus, Uncommon, Focus","rarity":"Uncommon"},{"name":"Spinning Staff","rank":"1","tradition":"","trait":"Evocation, Magus, Uncommon, Focus","rarity":"Uncommon"},{"name":"Thunderous Strike","rank":"1","tradition":"","trait":"Evocation, Magus, Sonic, Uncommon, Focus","rarity":"Uncommon"},{"name":"Evolution Surge","rank":"1","tradition":"","trait":"Morph, Summoner, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Extend Boost","rank":"1","tradition":"","trait":"Divination, Metamagic, Summoner, Uncommon, Focus","rarity":"Uncommon"},{"name":"Unfetter Eidolon","rank":"1","tradition":"","trait":"Abjuration, Summoner, Uncommon, Focus","rarity":"Uncommon"},{"name":"Efficient Apport","rank":"1","tradition":"","trait":"Conjuration, Teleportation, Uncommon, Wizard, Focus","rarity":"Uncommon"},{"name":"Hallowed Ground","rank":"1","tradition":"","trait":"Good, Necromancy, Positive, Uncommon, Focus","rarity":"Uncommon"},{"name":"Cinder Gaze","rank":"1","tradition":"","trait":"Cleric, Divination, Prediction, Rare, Focus","rarity":"Rare"},{"name":"Frenzied Revelry","rank":"1","tradition":"","trait":"Cleric, Emotion, Enchantment, Mental, Rare, Focus","rarity":"Rare"},{"name":"Hollow Heart","rank":"1","tradition":"","trait":"Cleric, Emotion, Enchantment, Fear, Mental, Rare, Focus","rarity":"Rare"},{"name":"String of Fate","rank":"1","tradition":"","trait":"Abjuration, Cleric, Fortune, Rare, Focus","rarity":"Rare"},{"name":"Victory Cry","rank":"1","tradition":"","trait":"Cleric, Evocation, Rare, Sonic, Focus","rarity":"Rare"},{"name":"Temporal Distortion","rank":"1","tradition":"","trait":"Cursebound, Oracle, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Ashen Wind","rank":"1","tradition":"","trait":"Conjuration, Cursebound, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Guided Introspection","rank":"1","tradition":"","trait":"Abjuration, Uncommon, Focus","rarity":"Uncommon"},{"name":"Unraveling Blast","rank":"1","tradition":"","trait":"Divination, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Updraft","rank":"1","tradition":"","trait":"Air, Concentrate, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Crushing Ground","rank":"1","tradition":"","trait":"Concentrate, Earth, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Wildfire","rank":"1","tradition":"","trait":"Concentrate, Fire, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Rising Surf","rank":"1","tradition":"","trait":"Focus, Manipulate, Move, Uncommon, Water","rarity":"Uncommon"},{"name":"Practice Makes Perfect","rank":"1","tradition":"","trait":"Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Serrate","rank":"1","tradition":"","trait":"Focus, Manipulate, Metal, Uncommon","rarity":"Uncommon"},{"name":"Arms of Nature","rank":"1","tradition":"","trait":"Concentrate, Focus, Manipulate, Uncommon, Wood","rarity":"Uncommon"},{"name":"Counter Performance","rank":"1","tradition":"","trait":"Bard, Composition, Concentrate, Focus, Fortune, Mental, Uncommon","rarity":"Uncommon"},{"name":"Hymn of Healing","rank":"1","tradition":"","trait":"Bard, Composition, Concentrate, Focus, Healing, Uncommon, Vitality","rarity":"Uncommon"},{"name":"Lingering Composition","rank":"1","tradition":"","trait":"Bard, Concentrate, Focus, Spellshape, Uncommon","rarity":"Uncommon"},{"name":"Loremaster's Etude","rank":"1","tradition":"","trait":"Bard, Focus, Fortune, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Pushing Gust","rank":"1","tradition":"","trait":"Air, Cleric, Concentrate, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Ignite Ambition","rank":"1","tradition":"","trait":"Cleric, Concentrate, Emotion, Focus, Mental, Subtle, Uncommon","rarity":"Uncommon"},{"name":"Face in the Crowd","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon, Visual","rarity":"Uncommon"},{"name":"Veil of Confidence","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Mental, Uncommon","rarity":"Uncommon"},{"name":"Creative Splash","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Illusion, Manipulate, Uncommon, Visual","rarity":"Uncommon"},{"name":"Cloak of Shadow","rank":"1","tradition":"","trait":"Aura, Cleric, Darkness, Focus, Manipulate, Shadow, Uncommon","rarity":"Uncommon"},{"name":"Death's Call","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Uncommon","rarity":"Uncommon"},{"name":"Cry of Destruction","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Manipulate, Sonic, Uncommon","rarity":"Uncommon"},{"name":"Sweet Dreams","rank":"1","tradition":"","trait":"Auditory, Cleric, Concentrate, Focus, Linguistic, Manipulate, Mental, Sleep, Uncommon","rarity":"Uncommon"},{"name":"Hurtling Stone","rank":"1","tradition":"","trait":"Attack, Cleric, Earth, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Soothing Words","rank":"1","tradition":"","trait":"Cleric, Concentrate, Emotion, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Read Fate","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Manipulate, Prediction, Uncommon","rarity":"Uncommon"},{"name":"Fire Ray","rank":"1","tradition":"","trait":"Attack, Cleric, Concentrate, Fire, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Unimpeded Stride","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Healer's Blessing","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Uncommon","rarity":"Uncommon"},{"name":"Overstuff","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Scholarly Recollection","rank":"1","tradition":"","trait":"Cleric, Focus, Fortune, Uncommon","rarity":"Uncommon"},{"name":"Bit of Luck","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Fortune, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Magic's Vessel","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Athletic Rush","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Moonbeam","rank":"1","tradition":"","trait":"Attack, Cleric, Concentrate, Fire, Focus, Light, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Vibrant Thorns","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Morph, Plant, Uncommon, Wood","rarity":"Uncommon"},{"name":"Waking Nightmare","rank":"1","tradition":"","trait":"Cleric, Concentrate, Emotion, Fear, Focus, Manipulate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Savor the Sting","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Mental, Nonlethal, Uncommon","rarity":"Uncommon"},{"name":"Charming Touch","rank":"1","tradition":"","trait":"Cleric, Emotion, Focus, Incapacitation, Manipulate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Perfected Mind","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Uncommon","rarity":"Uncommon"},{"name":"Protector's Sacrifice","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Whispering Quiet","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Sonic, Uncommon","rarity":"Uncommon"},{"name":"Dazzling Flash","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Light, Manipulate, Uncommon, Visual","rarity":"Uncommon"},{"name":"Agile Feet","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Sudden Shift","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Word of Truth","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Uncommon","rarity":"Uncommon"},{"name":"Touch of Obedience","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Touch of Undeath","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon, Void","rarity":"Uncommon"},{"name":"Tidal Surge","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon, Water","rarity":"Uncommon"},{"name":"Appearance of Wealth","rank":"1","tradition":"","trait":"Cleric, Concentrate, Focus, Illusion, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Weapon Surge","rank":"1","tradition":"","trait":"Cleric, Focus, Manipulate, Sanctified, Uncommon","rarity":"Uncommon"},{"name":"Heal Animal","rank":"1","tradition":"","trait":"Druid, Focus, Healing, Manipulate, Uncommon, Vitality","rarity":"Uncommon"},{"name":"Cornucopia","rank":"1","tradition":"","trait":"Concentrate, Druid, Focus, Healing, Manipulate, Plant, Uncommon, Vitality","rarity":"Uncommon"},{"name":"Tempest Surge","rank":"1","tradition":"","trait":"Air, Concentrate, Druid, Electricity, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Untamed Form","rank":"1","tradition":"","trait":"Concentrate, Druid, Focus, Manipulate, Polymorph, Uncommon","rarity":"Uncommon"},{"name":"Untamed Shift","rank":"1","tradition":"","trait":"Concentrate, Druid, Focus, Manipulate, Morph, Uncommon","rarity":"Uncommon"},{"name":"Gravity Weapon","rank":"1","tradition":"","trait":"Focus, Ranger, Uncommon","rarity":"Uncommon"},{"name":"Heal Companion","rank":"1","tradition":"","trait":"Focus, Healing, Ranger, Uncommon, Vitality","rarity":"Uncommon"},{"name":"Magic Hide","rank":"1","tradition":"","trait":"Focus, Manipulate, Ranger, Uncommon","rarity":"Uncommon"},{"name":"Blood Ward","rank":"1","tradition":"","trait":"Focus, Hex, Manipulate, Uncommon, Witch","rarity":"Uncommon"},{"name":"Cackle","rank":"1","tradition":"","trait":"Concentrate, Focus, Hex, Uncommon, Witch","rarity":"Uncommon"},{"name":"Elemental Betrayal","rank":"1","tradition":"","trait":"Concentrate, Focus, Hex, Uncommon, Witch","rarity":"Uncommon"},{"name":"Life Boost","rank":"1","tradition":"","trait":"Focus, Healing, Hex, Manipulate, Uncommon, Vitality, Witch","rarity":"Uncommon"},{"name":"Needle of Vengeance","rank":"1","tradition":"","trait":"Focus, Hex, Manipulate, Mental, Uncommon, Witch","rarity":"Uncommon"},{"name":"Patron's Puppet","rank":"1","tradition":"","trait":"Focus, Hex, Uncommon, Witch","rarity":"Uncommon"},{"name":"Phase Familiar","rank":"1","tradition":"","trait":"Focus, Hex, Manipulate, Uncommon, Witch","rarity":"Uncommon"},{"name":"Veil of Dreams","rank":"1","tradition":"","trait":"Focus, Hex, Manipulate, Mental, Uncommon, Witch","rarity":"Uncommon"},{"name":"Protective Wards","rank":"1","tradition":"","trait":"Aura, Focus, Manipulate, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Force Bolt","rank":"1","tradition":"","trait":"Focus, Force, Manipulate, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Fortify Summoning","rank":"1","tradition":"","trait":"Concentrate, Focus, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Earthworks","rank":"1","tradition":"","trait":"Concentrate, Earth, Focus, Manipulate, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Charming Push","rank":"1","tradition":"","trait":"Concentrate, Focus, Incapacitation, Mental, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Scramble Body","rank":"1","tradition":"","trait":"Concentrate, Focus, Manipulate, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Hand of the Apprentice","rank":"1","tradition":"","trait":"Attack, Focus, Manipulate, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Wholeness of Body","rank":"2","tradition":"","trait":"Healing, Monk, Necromancy, Positive, Uncommon, Focus","rarity":"Uncommon"},{"name":"Perfect Strike","rank":"2","tradition":"","trait":"Divination, Fortune, Uncommon, Focus","rarity":"Uncommon"},{"name":"Magic Warrior Aspect","rank":"2","tradition":"","trait":"Morph, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Magic Warrior Transformation","rank":"2","tradition":"","trait":"Polymorph, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Invoke the Crimson Oath","rank":"2","tradition":"","trait":"Evocation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Light of Revelation","rank":"2","tradition":"","trait":"Champion, Divination, Light, Revelation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Sun Blade","rank":"2","tradition":"","trait":"Evocation, Fire, Light, Positive, Uncommon, Focus","rarity":"Uncommon"},{"name":"Vision of Weakness","rank":"2","tradition":"","trait":"Cursebound, Divination, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Lifelink Surge","rank":"2","tradition":"","trait":"Healing, Necromancy, Positive, Summoner, Uncommon, Focus","rarity":"Uncommon"},{"name":"Animal Feature","rank":"2","tradition":"","trait":"Concentrate, Focus, Manipulate, Morph, Ranger, Uncommon","rarity":"Uncommon"},{"name":"Enlarge Companion","rank":"2","tradition":"","trait":"Concentrate, Focus, Manipulate, Polymorph, Ranger, Uncommon","rarity":"Uncommon"},{"name":"Hunter's Luck","rank":"2","tradition":"","trait":"Concentrate, Focus, Fortune, Ranger, Uncommon","rarity":"Uncommon"},{"name":"Soothing Mist","rank":"2","tradition":"","trait":"Concentrate, Focus, Healing, Manipulate, Ranger, Uncommon, Vitality","rarity":"Uncommon"},{"name":"Litany Against Wrath","rank":"3","tradition":"","trait":"Champion, Evocation, Good, Litany, Uncommon, Focus","rarity":"Uncommon"},{"name":"Ki Blast","rank":"3","tradition":"","trait":"Evocation, Force, Monk, Uncommon, Focus","rarity":"Uncommon"},{"name":"Aberrant Whispers","rank":"3","tradition":"","trait":"Auditory, Enchantment, Mental, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Angelic Wings","rank":"3","tradition":"","trait":"Evocation, Light, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Dragon Breath","rank":"3","tradition":"","trait":"Evocation, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Drain Life","rank":"3","tradition":"","trait":"Necromancy, Negative, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Elemental Motion","rank":"3","tradition":"","trait":"Evocation, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Embrace the Pit","rank":"3","tradition":"","trait":"Evil, Morph, Sorcerer, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Extend Spell","rank":"3","tradition":"","trait":"Divination, Metamagic, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Fey Disappearance","rank":"3","tradition":"","trait":"Enchantment, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Horrific Visage","rank":"3","tradition":"","trait":"Emotion, Fear, Illusion, Mental, Sorcerer, Uncommon, Visual, Focus","rarity":"Uncommon"},{"name":"Swamp of Sloth","rank":"3","tradition":"","trait":"Conjuration, Olfactory, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Unblinking Flame Revelation","rank":"3","tradition":"","trait":"Abjuration, Uncommon, Focus","rarity":"Uncommon"},{"name":"Unbreaking Wave Advance","rank":"3","tradition":"","trait":"Evocation, Uncommon, Water, Focus","rarity":"Uncommon"},{"name":"Unfolding Wind Rush","rank":"3","tradition":"","trait":"Evocation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Untwisting Iron Buffer","rank":"3","tradition":"","trait":"Abjuration, Uncommon, Focus","rarity":"Uncommon"},{"name":"Electrified Crystal Ward","rank":"3","tradition":"","trait":"Electricity, Evocation, Rare, Focus","rarity":"Rare"},{"name":"Beastmaster Trance","rank":"3","tradition":"","trait":"Archetype, Concentrate, Divination, Mental, Uncommon, Focus","rarity":"Uncommon"},{"name":"Access Lore","rank":"3","tradition":"","trait":"Cursebound, Divination, Fortune, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Ancestral Defense","rank":"3","tradition":"","trait":"Abjuration, Cursebound, Fortune, Mental, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Armor of Bones","rank":"3","tradition":"","trait":"Cursebound, Necromancy, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Battlefield Persistence","rank":"3","tradition":"","trait":"Cursebound, Divination, Divine, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Delay Affliction","rank":"3","tradition":"","trait":"Cursebound, Healing, Necromancy, Oracle, Positive, Uncommon, Focus","rarity":"Uncommon"},{"name":"Interstellar Void","rank":"3","tradition":"","trait":"Cold, Cursebound, Evocation, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Thunderburst","rank":"3","tradition":"","trait":"Air, Cursebound, Evocation, Oracle, Sonic, Uncommon, Focus","rarity":"Uncommon"},{"name":"Whirling Flames","rank":"3","tradition":"","trait":"Cursebound, Evocation, Fire, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Blinding Beauty","rank":"3","tradition":"","trait":"Emotion, Enchantment, Incapacitation, Sorcerer, Uncommon, Visual, Focus","rarity":"Uncommon"},{"name":"Heart's Desire","rank":"3","tradition":"","trait":"Emotion, Illusion, Mental, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Spirit Veil","rank":"3","tradition":"","trait":"Illusion, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Steal Shadow","rank":"3","tradition":"","trait":"Necromancy, Shadow, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Sun's Fury","rank":"3","tradition":"","trait":"Evocation, Fire, Good, Uncommon, Focus","rarity":"Uncommon"},{"name":"Shroud of Flame","rank":"3","tradition":"","trait":"Evocation, Fire, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Cascade Countermeasure","rank":"3","tradition":"","trait":"Abjuration, Magus, Uncommon, Focus","rarity":"Uncommon"},{"name":"Eidolon's Wrath","rank":"3","tradition":"","trait":"Eidolon, Evocation, Summoner, Uncommon, Focus","rarity":"Uncommon"},{"name":"Inscrutable Mask","rank":"3","tradition":"","trait":"Illusion, Shadow, Uncommon, Focus","rarity":"Uncommon"},{"name":"Eyes of the Dead","rank":"3","tradition":"","trait":"Divination, Mental, Uncommon, Focus","rarity":"Uncommon"},{"name":"Subjugate Undead","rank":"3","tradition":"","trait":"Mental, Necromancy, Uncommon, Focus","rarity":"Uncommon"},{"name":"Return the Favor","rank":"3","tradition":"","trait":"Hex, Necromancy, Rare, Witch, Focus","rarity":"Rare"},{"name":"Time Skip","rank":"3","tradition":"","trait":"Cursebound, Oracle, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Incendiary Ashes","rank":"3","tradition":"","trait":"Cursebound, Evocation, Fire, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Invoke the Harrow","rank":"3","tradition":"","trait":"Divination, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Powerful Inhalation","rank":"3","tradition":"","trait":"Air, Concentrate, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Stone Lance","rank":"3","tradition":"","trait":"Attack, Concentrate, Earth, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Combustion","rank":"3","tradition":"","trait":"Concentrate, Fire, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Pulverizing Cascade","rank":"3","tradition":"","trait":"Concentrate, Focus, Manipulate, Uncommon, Water","rarity":"Uncommon"},{"name":"Ki Cutting Sight","rank":"3","tradition":"","trait":"Divination, Monk, Rare, Focus","rarity":"Rare"},{"name":"Ephemeral Tracking","rank":"3","tradition":"","trait":"Concentrate, Focus, Manipulate, Ranger, Uncommon","rarity":"Uncommon"},{"name":"Ranger's Bramble","rank":"3","tradition":"","trait":"Concentrate, Focus, Manipulate, Plant, Ranger, Uncommon","rarity":"Uncommon"},{"name":"Deceiver's Cloak","rank":"3","tradition":"","trait":"Concentrate, Focus, Hex, Illusion, Manipulate, Uncommon, Witch","rarity":"Uncommon"},{"name":"Malicious Shadow","rank":"3","tradition":"","trait":"Concentrate, Focus, Hex, Manipulate, Shadow, Uncommon, Witch","rarity":"Uncommon"},{"name":"Personal Blizzard","rank":"3","tradition":"","trait":"Cold, Focus, Hex, Uncommon, Witch","rarity":"Uncommon"},{"name":"Abundant Step","rank":"4","tradition":"","trait":"Conjuration, Monk, Teleportation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Wild Winds Stance","rank":"4","tradition":"","trait":"Air, Evocation, Monk, Stance, Uncommon, Focus","rarity":"Uncommon"},{"name":"Dimensional Steps","rank":"4","tradition":"","trait":"Conjuration, Teleportation, Uncommon, Wizard, Focus","rarity":"Uncommon"},{"name":"Dread Aura","rank":"4","tradition":"","trait":"Aura, Emotion, Enchantment, Fear, Mental, Uncommon, Wizard, Focus","rarity":"Uncommon"},{"name":"Elemental Tempest","rank":"4","tradition":"","trait":"Evocation, Metamagic, Uncommon, Wizard, Focus","rarity":"Uncommon"},{"name":"Life Siphon","rank":"4","tradition":"","trait":"Healing, Necromancy, Uncommon, Wizard, Focus","rarity":"Uncommon"},{"name":"Mantis Form","rank":"4","tradition":"","trait":"Polymorph, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Adaptive Ablation","rank":"4","tradition":"","trait":"Abjuration, Focus","rarity":"Common"},{"name":"Diamond Dust","rank":"4","tradition":"","trait":"Cold, Evocation, Focus","rarity":"Common"},{"name":"Fallow Field","rank":"4","tradition":"","trait":"Necromancy, Negative, Focus","rarity":"Common"},{"name":"Ephemeral Hazards","rank":"4","tradition":"","trait":"Illusion, Mental, Visual, Focus","rarity":"Common"},{"name":"Dust Storm","rank":"4","tradition":"","trait":"Air, Conjuration, Nonlethal, Focus","rarity":"Common"},{"name":"Dutiful Challenge","rank":"4","tradition":"","trait":"Abjuration, Focus","rarity":"Common"},{"name":"Ghostly Transcription","rank":"4","tradition":"","trait":"Illusion, Visual, Focus","rarity":"Common"},{"name":"Bottle the Storm","rank":"4","tradition":"","trait":"Electricity, Evocation, Focus","rarity":"Common"},{"name":"Foul Miasma","rank":"4","tradition":"","trait":"Disease, Necromancy, Focus","rarity":"Common"},{"name":"Font of Serenity","rank":"4","tradition":"","trait":"Abjuration, Emotion, Mental, Focus","rarity":"Common"},{"name":"Overflowing Sorrow","rank":"4","tradition":"","trait":"Emotion, Enchantment, Incapacitation, Mental, Focus","rarity":"Common"},{"name":"Ectoplasmic Interstice","rank":"4","tradition":"","trait":"Necromancy, Focus","rarity":"Common"},{"name":"Asterism","rank":"4","tradition":"","trait":"Evocation, Light, Focus","rarity":"Common"},{"name":"Swarm Form","rank":"4","tradition":"","trait":"Polymorph, Transmutation, Focus","rarity":"Common"},{"name":"Stasis","rank":"4","tradition":"","trait":"Incapacitation, Transmutation, Focus","rarity":"Common"},{"name":"Remember the Lost","rank":"4","tradition":"","trait":"Divination, Mental, Focus","rarity":"Common"},{"name":"Door to Beyond","rank":"4","tradition":"","trait":"Conjuration, Focus","rarity":"Common"},{"name":"Roar of the Wyrm","rank":"4","tradition":"","trait":"Auditory, Emotion, Enchantment, Mental, Focus","rarity":"Common"},{"name":"Clinging Shadows Stance","rank":"4","tradition":"","trait":"Evocation, Monk, Shadow, Stance, Uncommon, Focus","rarity":"Uncommon"},{"name":"Debilitating Dichotomy","rank":"4","tradition":"","trait":"Cursebound, Evocation, Mental, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Achaekek's Clutch","rank":"4","tradition":"","trait":"Curse, Death, Necromancy, Rare, Focus","rarity":"Rare"},{"name":"Transcribe Moment","rank":"4","tradition":"","trait":"Evocation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Familiar Form","rank":"4","tradition":"","trait":"Polymorph, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Ordained Purpose","rank":"4","tradition":"","trait":"Enchantment, Mental, Uncommon, Focus","rarity":"Uncommon"},{"name":"Runic Impression","rank":"4","tradition":"","trait":"Evocation, Magus, Uncommon, Focus","rarity":"Uncommon"},{"name":"Euphoric Renewal","rank":"4","tradition":"","trait":"Cleric, Necromancy, Rare, Focus","rarity":"Rare"},{"name":"Isolation","rank":"4","tradition":"","trait":"Cleric, Illusion, Rare, Focus","rarity":"Rare"},{"name":"Inevitable Destination","rank":"4","tradition":"","trait":"Cleric, Conjuration, Rare, Focus","rarity":"Rare"},{"name":"Purifying Veil","rank":"4","tradition":"","trait":"Cleric, Evocation, Good, Rare, Water, Focus","rarity":"Rare"},{"name":"Shaken Confidence","rank":"4","tradition":"","trait":"Cleric, Emotion, Enchantment, Mental, Misfortune, Rare, Focus","rarity":"Rare"},{"name":"Weaponize Secret","rank":"4","tradition":"","trait":"Cleric, Divination, Mental, Rare, Focus","rarity":"Rare"},{"name":"Wind Whispers","rank":"4","tradition":"","trait":"Cleric, Enchantment, Linguistic, Mental, Rare, Focus","rarity":"Rare"},{"name":"Wordsmith","rank":"4","tradition":"","trait":"Cleric, Rare, Transmutation, Focus","rarity":"Rare"},{"name":"Path of Least Resistance","rank":"4","tradition":"","trait":"Divination, Uncommon, Focus","rarity":"Uncommon"},{"name":"Waking Dream","rank":"4","tradition":"","trait":"Enchantment, Mental, Focus","rarity":"Common"},{"name":"Fearful Feast","rank":"4","tradition":"","trait":"Fear, Mental, Necromancy, Uncommon, Focus","rarity":"Uncommon"},{"name":"Confront Selves","rank":"4","tradition":"","trait":"Illusion, Mental, Uncommon, Focus","rarity":"Uncommon"},{"name":"Tireless Worker","rank":"4","tradition":"","trait":"Concentrate, Focus, Healing, Manipulate","rarity":"Common"},{"name":"Repel Metal","rank":"4","tradition":"","trait":"Focus, Manipulate, Metal, Uncommon","rarity":"Uncommon"},{"name":"Wood Walk","rank":"4","tradition":"","trait":"Concentrate, Focus, Manipulate, Uncommon, Wood","rarity":"Uncommon"},{"name":"Fortissimo Composition","rank":"4","tradition":"","trait":"Bard, Concentrate, Focus, Spellshape, Uncommon","rarity":"Uncommon"},{"name":"Disperse into Air","rank":"4","tradition":"","trait":"Air, Cleric, Focus, Manipulate, Polymorph, Uncommon","rarity":"Uncommon"},{"name":"Competitive Edge","rank":"4","tradition":"","trait":"Cleric, Concentrate, Emotion, Focus, Mental, Uncommon","rarity":"Uncommon"},{"name":"Pulse of Civilization","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Manipulate, Scrying, Uncommon","rarity":"Uncommon"},{"name":"Delusional Pride","rank":"4","tradition":"","trait":"Cleric, Concentrate, Emotion, Focus, Manipulate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Artistic Flourish","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Darkened Sight","rank":"4","tradition":"","trait":"Cleric, Concentrate, Darkness, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Eradicate Undeath","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Manipulate, Uncommon, Vitality","rarity":"Uncommon"},{"name":"Destructive Aura","rank":"4","tradition":"","trait":"Aura, Cleric, Concentrate, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Dreamer's Call","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Illusion, Incapacitation, Manipulate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Localized Quake","rank":"4","tradition":"","trait":"Cleric, Concentrate, Earth, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Unity","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Fortune, Uncommon","rarity":"Uncommon"},{"name":"Tempt Fate","rank":"4","tradition":"","trait":"Cleric, Focus, Fortune, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Flame Barrier","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Uncommon","rarity":"Uncommon"},{"name":"Word of Freedom","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Mental, Uncommon","rarity":"Uncommon"},{"name":"Rebuke Death","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Healing, Manipulate, Uncommon, Vitality","rarity":"Uncommon"},{"name":"Take its Course","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Fortune, Uncommon","rarity":"Uncommon"},{"name":"Know the Enemy","rank":"4","tradition":"","trait":"Cleric, Focus, Fortune, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Lucky Break","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Uncommon","rarity":"Uncommon"},{"name":"Mystic Beacon","rank":"4","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Enduring Might","rank":"4","tradition":"","trait":"Cleric, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Touch of the Moon","rank":"4","tradition":"","trait":"Cleric, Focus, Light, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Nature's Bounty","rank":"4","tradition":"","trait":"Cleric, Focus, Manipulate, Plant, Uncommon, Vitality","rarity":"Uncommon"},{"name":"Shared Nightmare","rank":"4","tradition":"","trait":"Cleric, Concentrate, Emotion, Focus, Incapacitation, Manipulate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Retributive Pain","rank":"4","tradition":"","trait":"Cleric, Focus, Manipulate, Mental, Nonlethal, Uncommon","rarity":"Uncommon"},{"name":"Captivating Adoration","rank":"4","tradition":"","trait":"Aura, Cleric, Concentrate, Emotion, Focus, Manipulate, Mental, Uncommon, Visual","rarity":"Uncommon"},{"name":"Perfected Body","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Uncommon","rarity":"Uncommon"},{"name":"Protector's Sphere","rank":"4","tradition":"","trait":"Aura, Cleric, Concentrate, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Safeguard Secret","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Manipulate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Vital Luminance","rank":"4","tradition":"","trait":"Aura, Cleric, Focus, Light, Manipulate, Uncommon, Vitality","rarity":"Uncommon"},{"name":"Traveler's Transit","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Trickster's Twin","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Illusion, Manipulate, Uncommon, Visual","rarity":"Uncommon"},{"name":"Glimpse the Truth","rank":"4","tradition":"","trait":"Aura, Cleric, Focus, Manipulate, Revelation, Uncommon","rarity":"Uncommon"},{"name":"Commanding Lash","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Linguistic, Manipulate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Malignant Sustenance","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Manipulate, Uncommon, Void","rarity":"Uncommon"},{"name":"Downpour","rank":"4","tradition":"","trait":"Cleric, Concentrate, Focus, Manipulate, Uncommon, Water","rarity":"Uncommon"},{"name":"Precious Metals","rank":"4","tradition":"","trait":"Cleric, Focus, Manipulate, Metal, Uncommon","rarity":"Uncommon"},{"name":"Zeal for Battle","rank":"4","tradition":"","trait":"Cleric, Concentrate, Emotion, Focus, Fortune, Mental, Uncommon","rarity":"Uncommon"},{"name":"Stormwind Flight","rank":"4","tradition":"","trait":"Air, Concentrate, Druid, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Rune of Observation","rank":"4","tradition":"","trait":"Concentrate, Focus, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Energy Absorption","rank":"4","tradition":"","trait":"Focus, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Spiral of Horrors","rank":"4","tradition":"","trait":"Aura, Concentrate, Emotion, Fear, Focus, Manipulate, Mental, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Community Restoration","rank":"4","tradition":"","trait":"Concentrate, Focus, Healing, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Invisibility Cloak","rank":"4","tradition":"","trait":"Focus, Illusion, Manipulate, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Shifting Form","rank":"4","tradition":"","trait":"Concentrate, Focus, Morph, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Interdisciplinary Incantation","rank":"4","tradition":"","trait":"Concentrate, Focus, Uncommon, Wizard","rarity":"Uncommon"},{"name":"Litany against Sloth","rank":"5","tradition":"","trait":"Champion, Evocation, Good, Litany, Uncommon, Focus","rarity":"Uncommon"},{"name":"Wind Jump","rank":"5","tradition":"","trait":"Air, Monk, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Abyssal Wrath","rank":"5","tradition":"","trait":"Evocation, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Arcane Countermeasure","rank":"5","tradition":"","trait":"Abjuration, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Celestial Brand","rank":"5","tradition":"","trait":"Curse, Necromancy, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Dragon Wings","rank":"5","tradition":"","trait":"Morph, Sorcerer, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Elemental Blast","rank":"5","tradition":"","trait":"Evocation, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Fey Glamour","rank":"5","tradition":"","trait":"Illusion, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Grasping Grave","rank":"5","tradition":"","trait":"Necromancy, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Hellfire Plume","rank":"5","tradition":"","trait":"Evil, Evocation, Fire, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Unusual Anatomy","rank":"5","tradition":"","trait":"Polymorph, Sorcerer, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"You're Mine","rank":"5","tradition":"","trait":"Emotion, Enchantment, Incapacitation, Mental, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Dance of Darkness","rank":"5","tradition":"","trait":"Darkness, Evocation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Shadow Jump","rank":"5","tradition":"","trait":"Conjuration, Shadow, Teleportation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Litany of Self-Interest","rank":"5","tradition":"","trait":"Champion, Enchantment, Evil, Litany, Mental, Uncommon, Focus","rarity":"Uncommon"},{"name":"Consuming Darkness","rank":"5","tradition":"","trait":"Evocation, Shadow, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Establish Ward","rank":"5","tradition":"","trait":"Abjuration, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Shepherd of Souls","rank":"5","tradition":"","trait":"Healing, Necromancy, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Wish-Twisted Form","rank":"5","tradition":"","trait":"Sorcerer, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Glacial Heart","rank":"5","tradition":"","trait":"Evocation, Hex, Rare, Witch, Focus","rarity":"Rare"},{"name":"Shall Not Falter, Shall Not Rout","rank":"5","tradition":"","trait":"Healing, Necromancy, Rare, Focus","rarity":"Rare"},{"name":"Steal the Sky","rank":"5","tradition":"","trait":"Air, Evocation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Spellmaster's Ward","rank":"5","tradition":"","trait":"Abjuration, Uncommon, Focus","rarity":"Uncommon"},{"name":"Wronged Monk's Wrath","rank":"5","tradition":"","trait":"Electricity, Evocation, Force, Monk, Uncommon, Focus","rarity":"Uncommon"},{"name":"Cleansing Flames","rank":"5","tradition":"","trait":"Fire, Healing, Necromancy, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Over the Coals","rank":"5","tradition":"","trait":"Hex, Mental, Necromancy, Rare, Witch, Focus","rarity":"Rare"},{"name":"Unblinking Flame Aura","rank":"5","tradition":"","trait":"Divination, Fire, Healing, Uncommon, Focus","rarity":"Uncommon"},{"name":"Unbreaking Wave Vapor","rank":"5","tradition":"","trait":"Abjuration, Uncommon, Water, Focus","rarity":"Uncommon"},{"name":"Unfolding Wind Buffet","rank":"5","tradition":"","trait":"Air, Evocation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Untwisting Iron Roots","rank":"5","tradition":"","trait":"Earth, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Rewrite Possibility","rank":"5","tradition":"","trait":"Divination, Fortune, Mental, Prediction, Sorcerer, Uncommon, Focus","rarity":"Uncommon"},{"name":"Ode to Ouroboros","rank":"5","tradition":"","trait":"Bard, Composition, Concentrate, Focus, Uncommon","rarity":"Uncommon"},{"name":"Symphony of the Unfettered Heart","rank":"5","tradition":"","trait":"Bard, Composition, Concentrate, Focus, Uncommon","rarity":"Uncommon"},{"name":"Hunter's Vision","rank":"5","tradition":"","trait":"Concentrate, Focus, Ranger, Uncommon","rarity":"Uncommon"},{"name":"Terrain Transposition","rank":"5","tradition":"","trait":"Concentrate, Focus, Manipulate, Ranger, Teleportation, Uncommon","rarity":"Uncommon"},{"name":"Curse of Death","rank":"5","tradition":"","trait":"Concentrate, Curse, Death, Focus, Hex, Manipulate, Uncommon, Void, Witch","rarity":"Uncommon"},{"name":"Restorative Moment","rank":"5","tradition":"","trait":"Concentrate, Focus, Hex, Manipulate, Uncommon, Witch","rarity":"Uncommon"},{"name":"Champion's Sacrifice","rank":"6","tradition":"","trait":"Abjuration, Champion, Uncommon, Focus","rarity":"Uncommon"},{"name":"Shadow Illusion","rank":"6","tradition":"","trait":"Auditory, Illusion, Shadow, Uncommon, Visual, Focus","rarity":"Uncommon"},{"name":"Ancestral Form","rank":"6","tradition":"","trait":"Cursebound, Oracle, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Claim Undead","rank":"6","tradition":"","trait":"Cursebound, Incapacitation, Necromancy, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Dread Secret","rank":"6","tradition":"","trait":"Cursebound, Divination, Emotion, Fear, Mental, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Flaming Fusillade","rank":"6","tradition":"","trait":"Cursebound, Evocation, Fire, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Heroic Feat","rank":"6","tradition":"","trait":"Cursebound, Divination, Mental, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Life-Giving Form","rank":"6","tradition":"","trait":"Cursebound, Healing, Light, Necromancy, Oracle, Positive, Uncommon, Focus","rarity":"Uncommon"},{"name":"Moonlight Bridge","rank":"6","tradition":"","trait":"Conjuration, Cursebound, Light, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Tempest Form","rank":"6","tradition":"","trait":"Cursebound, Oracle, Polymorph, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Speaking Sky","rank":"6","tradition":"","trait":"Air, Divination, Uncommon, Focus","rarity":"Uncommon"},{"name":"Shambling Horror","rank":"6","tradition":"","trait":"Evil, Necromancy, Uncommon, Focus","rarity":"Uncommon"},{"name":"For Love, For Lightning","rank":"6","tradition":"","trait":"Electricity, Evocation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Manifold Lives","rank":"6","tradition":"","trait":"Cursebound, Divination, Emotion, Mental, Oracle, Uncommon, Focus","rarity":"Uncommon"},{"name":"Ash Form","rank":"6","tradition":"","trait":"Cursebound, Oracle, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Primal Summons","rank":"6","tradition":"","trait":"Concentrate, Druid, Focus, Uncommon","rarity":"Uncommon"},{"name":"Litany of Righteousness","rank":"7","tradition":"","trait":"Champion, Evocation, Good, Litany, Uncommon, Focus","rarity":"Uncommon"},{"name":"Litany of Depravity","rank":"7","tradition":"","trait":"Champion, Evil, Evocation, Litany, Uncommon, Focus","rarity":"Uncommon"},{"name":"Shadow's Web","rank":"7","tradition":"","trait":"Evocation, Monk, Uncommon, Focus","rarity":"Uncommon"},{"name":"Hasted Assault","rank":"7","tradition":"","trait":"Magus, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Darklight","rank":"7","tradition":"","trait":"Darkness, Evocation, Shadow, Uncommon, Focus","rarity":"Uncommon"},{"name":"Unblinking Flame Emblem","rank":"7","tradition":"","trait":"Divination, Fire, Uncommon, Focus","rarity":"Uncommon"},{"name":"Unbreaking Wave Barrier","rank":"7","tradition":"","trait":"Abjuration, Uncommon, Water, Focus","rarity":"Uncommon"},{"name":"Unfolding Wind Blitz","rank":"7","tradition":"","trait":"Air, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Untwisting Iron Augmentation","rank":"7","tradition":"","trait":"Earth, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Soothing Ballad","rank":"7","tradition":"","trait":"Bard, Composition, Concentrate, Emotion, Focus, Healing, Manipulate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Quivering Palm","rank":"8","tradition":"","trait":"Incapacitation, Monk, Necromancy, Uncommon, Focus","rarity":"Uncommon"},{"name":"Medusa's Wrath","rank":"8","tradition":"","trait":"Monk, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Impaling Briars","rank":"8","tradition":"","trait":"Concentrate, Druid, Focus, Manipulate, Plant, Uncommon, Wood","rarity":"Uncommon"},{"name":"Empty Body","rank":"9","tradition":"","trait":"Conjuration, Monk, Teleportation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Ki Form","rank":"9","tradition":"","trait":"Monk, Polymorph, Uncommon, Focus","rarity":"Uncommon"},{"name":"Unblinking Flame Ignition","rank":"9","tradition":"","trait":"Divination, Fire, Uncommon, Focus","rarity":"Uncommon"},{"name":"Unbreaking Wave Containment","rank":"9","tradition":"","trait":"Evocation, Incapacitation, Uncommon, Water, Focus","rarity":"Uncommon"},{"name":"Unfolding Wind Crash","rank":"9","tradition":"","trait":"Air, Evocation, Move, Uncommon, Focus","rarity":"Uncommon"},{"name":"Untwisting Iron Pillar","rank":"9","tradition":"","trait":"Abjuration, Earth, Uncommon, Focus","rarity":"Uncommon"},{"name":"Storm Lord","rank":"9","tradition":"","trait":"Air, Concentrate, Druid, Electricity, Focus, Manipulate, Uncommon","rarity":"Uncommon"},{"name":"Hero's Defiance","rank":"10","tradition":"","trait":"Champion, Healing, Necromancy, Positive, Uncommon, Focus","rarity":"Uncommon"},{"name":"Apex Companion","rank":"10","tradition":"","trait":"Druid, Polymorph, Transmutation, Uncommon, Focus","rarity":"Uncommon"},{"name":"Song of the Fallen","rank":"10","tradition":"","trait":"Bard, Composition, Necromancy, Uncommon, Focus","rarity":"Uncommon"},{"name":"Fatal Aria","rank":"10","tradition":"","trait":"Bard, Composition, Concentrate, Death, Emotion, Focus, Mental, Uncommon","rarity":"Uncommon"},{"name":"Pied Piping","rank":"10","tradition":"","trait":"Bard, Composition, Concentrate, Focus, Incapacitation, Mental, Sonic, Uncommon","rarity":"Uncommon"}]
+[
+	{
+		"name": "Lay on Hands",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Champion, Healing, Necromancy, Positive, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ki Rush",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Monk, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ki Strike",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Monk, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ancestral Memories",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Divination, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Angelic Halo",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Aura, Good, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Diabolic Edict",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Enchantment, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dragon Claws",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Morph, Sorcerer, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Elemental Toss",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Attack, Evocation, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Faerie Dust",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Enchantment, Mental, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Glutton's Jaw",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Morph, Necromancy, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Jealous Hex",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Curse, Necromancy, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Tentacular Limbs",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Morph, Sorcerer, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Undeath's Blessing",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Necromancy, Negative, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Call of the Grave",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Arcane, Attack, Necromancy, Uncommon, Wizard, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Diviner's Sight",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Divination, Fortune, Uncommon, Wizard, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Physical Boost",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Transmutation, Uncommon, Wizard, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Warped Terrain",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Illusion, Uncommon, Visual, Wizard, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Adapt Self",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Morph, Transmutation, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Winter Bolt",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Attack, Cold, Evocation, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Withering Grasp",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Necromancy, Negative, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Hyperfocus",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Divination, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Parch",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Air, Evocation, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Oathkeeper's Insignia",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Conjuration, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Redact",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Transmutation, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Charged Javelin",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Attack, Electricity, Evocation, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Divine Plagues",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Disease, Necromancy, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Share Burden",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Mental, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Lament",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Auditory, Emotion, Enchantment, Mental, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Eject Soul",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Incapacitation, Necromancy, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Zenith Star",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Divination, Light, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Swarmsense",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Divination, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Delay Consequence",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Object Memory",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Divination, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Empty Inside",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Mental, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Draconic Barrage",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Evocation, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Ancestral Touch",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cursebound, Emotion, Enchantment, Fear, Mental, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Brain Drain",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cursebound, Enchantment, Mental, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Call to Arms",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Auditory, Cursebound, Emotion, Enchantment, Mental, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Incendiary Aura",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cursebound, Evocation, Fire, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Life Link",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cursebound, Healing, Necromancy, Oracle, Positive, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Soul Siphon",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cursebound, Necromancy, Negative, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Spray of Stars",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cursebound, Evocation, Fire, Light, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Tempest Touch",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cold, Cursebound, Evocation, Oracle, Uncommon, Water, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Snare Hopping",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Conjuration, Ranger, Teleportation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dim the Light",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Darkness, Evocation, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Genie's Veil",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Nymph's Token",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Enchantment, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Sepulchral Mask",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Divination, Emotion, Mental, Sorcerer, Uncommon, Visual, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Touch of Corruption",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Champion, Necromancy, Negative, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Split the Tongue",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Lift Nature's Caul",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Fear, Illusion, Uncommon, Visual, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Rejuvenating Flames",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Fire, Healing, Necromancy, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Stumbling Curse",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Curse, Hex, Transmutation, Uncommon, Witch, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dimensional Assault",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Conjuration, Magus, Teleportation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Force Fang",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Evocation, Force, Magus, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shielding Strike",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Magus, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shooting Star",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Divination, Magus, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Spinning Staff",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Evocation, Magus, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Thunderous Strike",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Evocation, Magus, Sonic, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Evolution Surge",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Morph, Summoner, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Extend Boost",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Divination, Metamagic, Summoner, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unfetter Eidolon",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Summoner, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Efficient Apport",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Conjuration, Teleportation, Uncommon, Wizard, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Hallowed Ground",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Good, Necromancy, Positive, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Cinder Gaze",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Divination, Prediction, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Frenzied Revelry",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Emotion, Enchantment, Mental, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Hollow Heart",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Emotion, Enchantment, Fear, Mental, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "String of Fate",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Cleric, Fortune, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Victory Cry",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Evocation, Rare, Sonic, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Temporal Distortion",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cursebound, Oracle, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ashen Wind",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Conjuration, Cursebound, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Guided Introspection",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unraveling Blast",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Divination, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Updraft",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Air, Concentrate, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Crushing Ground",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Earth, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Wildfire",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Fire, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Rising Surf",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Manipulate, Move, Uncommon, Water",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Practice Makes Perfect",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Serrate",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Manipulate, Metal, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Arms of Nature",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Manipulate, Uncommon, Wood",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Counter Performance",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Bard, Composition, Concentrate, Focus, Fortune, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Hymn of Healing",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Bard, Composition, Concentrate, Focus, Healing, Uncommon, Vitality",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Lingering Composition",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Bard, Concentrate, Focus, Spellshape, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Loremaster's Etude",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Bard, Focus, Fortune, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Pushing Gust",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Air, Cleric, Concentrate, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ignite Ambition",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Emotion, Focus, Mental, Subtle, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Face in the Crowd",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon, Visual",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Veil of Confidence",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Creative Splash",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Illusion, Manipulate, Uncommon, Visual",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Cloak of Shadow",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Aura, Cleric, Darkness, Focus, Manipulate, Shadow, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Death's Call",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Cry of Destruction",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Manipulate, Sonic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Sweet Dreams",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Auditory, Cleric, Concentrate, Focus, Linguistic, Manipulate, Mental, Sleep, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Hurtling Stone",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Attack, Cleric, Earth, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Soothing Words",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Emotion, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Read Fate",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Manipulate, Prediction, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Fire Ray",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Attack, Cleric, Concentrate, Fire, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unimpeded Stride",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Healer's Blessing",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Overstuff",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Scholarly Recollection",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Fortune, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Bit of Luck",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Fortune, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Magic's Vessel",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Athletic Rush",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Moonbeam",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Attack, Cleric, Concentrate, Fire, Focus, Light, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Vibrant Thorns",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Morph, Plant, Uncommon, Wood",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Waking Nightmare",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Emotion, Fear, Focus, Manipulate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Savor the Sting",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Mental, Nonlethal, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Charming Touch",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Emotion, Focus, Incapacitation, Manipulate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Perfected Mind",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Protector's Sacrifice",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Whispering Quiet",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Sonic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dazzling Flash",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Light, Manipulate, Uncommon, Visual",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Agile Feet",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Sudden Shift",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Word of Truth",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Touch of Obedience",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Touch of Undeath",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon, Void",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Tidal Surge",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon, Water",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Appearance of Wealth",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Illusion, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Weapon Surge",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Sanctified, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Heal Animal",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Druid, Focus, Healing, Manipulate, Uncommon, Vitality",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Cornucopia",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Druid, Focus, Healing, Manipulate, Plant, Uncommon, Vitality",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Tempest Surge",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Air, Concentrate, Druid, Electricity, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Untamed Form",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Druid, Focus, Manipulate, Polymorph, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Untamed Shift",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Druid, Focus, Manipulate, Morph, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Gravity Weapon",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Ranger, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Heal Companion",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Healing, Ranger, Uncommon, Vitality",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Magic Hide",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Manipulate, Ranger, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Blood Ward",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Hex, Manipulate, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Cackle",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Hex, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Elemental Betrayal",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Hex, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Life Boost",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Healing, Hex, Manipulate, Uncommon, Vitality, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Needle of Vengeance",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Hex, Manipulate, Mental, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Patron's Puppet",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Hex, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Phase Familiar",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Hex, Manipulate, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Veil of Dreams",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Hex, Manipulate, Mental, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Protective Wards",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Aura, Focus, Manipulate, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Force Bolt",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Focus, Force, Manipulate, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Fortify Summoning",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Earthworks",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Earth, Focus, Manipulate, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Charming Push",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Incapacitation, Mental, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Scramble Body",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Manipulate, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Hand of the Apprentice",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Attack, Focus, Manipulate, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Wholeness of Body",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Healing, Monk, Necromancy, Positive, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Perfect Strike",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Divination, Fortune, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Magic Warrior Aspect",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Morph, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Magic Warrior Transformation",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Polymorph, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Invoke the Crimson Oath",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Evocation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Light of Revelation",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Champion, Divination, Light, Revelation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Sun Blade",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Evocation, Fire, Light, Positive, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Vision of Weakness",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Cursebound, Divination, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Lifelink Surge",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Healing, Necromancy, Positive, Summoner, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Animal Feature",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Manipulate, Morph, Ranger, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Enlarge Companion",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Manipulate, Polymorph, Ranger, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Hunter's Luck",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Fortune, Ranger, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Soothing Mist",
+		"rank": "2",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Healing, Manipulate, Ranger, Uncommon, Vitality",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Litany Against Wrath",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Champion, Evocation, Good, Litany, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ki Blast",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Evocation, Force, Monk, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Aberrant Whispers",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Auditory, Enchantment, Mental, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Angelic Wings",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Evocation, Light, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dragon Breath",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Evocation, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Drain Life",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Necromancy, Negative, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Elemental Motion",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Evocation, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Embrace the Pit",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Evil, Morph, Sorcerer, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Extend Spell",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Divination, Metamagic, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Fey Disappearance",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Enchantment, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Horrific Visage",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Emotion, Fear, Illusion, Mental, Sorcerer, Uncommon, Visual, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Swamp of Sloth",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Conjuration, Olfactory, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unblinking Flame Revelation",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Abjuration, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unbreaking Wave Advance",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Evocation, Uncommon, Water, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unfolding Wind Rush",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Evocation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Untwisting Iron Buffer",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Abjuration, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Electrified Crystal Ward",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Electricity, Evocation, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Beastmaster Trance",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Archetype, Concentrate, Divination, Mental, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Access Lore",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cursebound, Divination, Fortune, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ancestral Defense",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Abjuration, Cursebound, Fortune, Mental, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Armor of Bones",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cursebound, Necromancy, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Battlefield Persistence",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cursebound, Divination, Divine, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Delay Affliction",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cursebound, Healing, Necromancy, Oracle, Positive, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Interstellar Void",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cold, Cursebound, Evocation, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Thunderburst",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Air, Cursebound, Evocation, Oracle, Sonic, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Whirling Flames",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cursebound, Evocation, Fire, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Blinding Beauty",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Emotion, Enchantment, Incapacitation, Sorcerer, Uncommon, Visual, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Heart's Desire",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Emotion, Illusion, Mental, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Spirit Veil",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Illusion, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Steal Shadow",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Necromancy, Shadow, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Sun's Fury",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Evocation, Fire, Good, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shroud of Flame",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Evocation, Fire, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Cascade Countermeasure",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Abjuration, Magus, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Eidolon's Wrath",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Eidolon, Evocation, Summoner, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Inscrutable Mask",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Illusion, Shadow, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Eyes of the Dead",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Divination, Mental, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Subjugate Undead",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Mental, Necromancy, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Return the Favor",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Hex, Necromancy, Rare, Witch, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Time Skip",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cursebound, Oracle, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Incendiary Ashes",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cursebound, Evocation, Fire, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Invoke the Harrow",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Divination, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Powerful Inhalation",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Air, Concentrate, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Stone Lance",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Attack, Concentrate, Earth, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Combustion",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Concentrate, Fire, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Pulverizing Cascade",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Manipulate, Uncommon, Water",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ki Cutting Sight",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Divination, Monk, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Ephemeral Tracking",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Manipulate, Ranger, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ranger's Bramble",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Manipulate, Plant, Ranger, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Deceiver's Cloak",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Hex, Illusion, Manipulate, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Malicious Shadow",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Hex, Manipulate, Shadow, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Personal Blizzard",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cold, Focus, Hex, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Abundant Step",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Conjuration, Monk, Teleportation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Wild Winds Stance",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Air, Evocation, Monk, Stance, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dimensional Steps",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Conjuration, Teleportation, Uncommon, Wizard, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dread Aura",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Aura, Emotion, Enchantment, Fear, Mental, Uncommon, Wizard, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Elemental Tempest",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Evocation, Metamagic, Uncommon, Wizard, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Life Siphon",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Healing, Necromancy, Uncommon, Wizard, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Mantis Form",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Polymorph, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Adaptive Ablation",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Abjuration, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Diamond Dust",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cold, Evocation, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Fallow Field",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Necromancy, Negative, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Ephemeral Hazards",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Illusion, Mental, Visual, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Dust Storm",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Air, Conjuration, Nonlethal, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Dutiful Challenge",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Abjuration, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Ghostly Transcription",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Illusion, Visual, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Bottle the Storm",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Electricity, Evocation, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Foul Miasma",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Disease, Necromancy, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Font of Serenity",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Abjuration, Emotion, Mental, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Overflowing Sorrow",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Emotion, Enchantment, Incapacitation, Mental, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Ectoplasmic Interstice",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Necromancy, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Asterism",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Evocation, Light, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Swarm Form",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Polymorph, Transmutation, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Stasis",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Incapacitation, Transmutation, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Remember the Lost",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Divination, Mental, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Door to Beyond",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Conjuration, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Roar of the Wyrm",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Auditory, Emotion, Enchantment, Mental, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Clinging Shadows Stance",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Evocation, Monk, Shadow, Stance, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Debilitating Dichotomy",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cursebound, Evocation, Mental, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Achaekek's Clutch",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Curse, Death, Necromancy, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Transcribe Moment",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Evocation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Familiar Form",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Polymorph, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ordained Purpose",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Enchantment, Mental, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Runic Impression",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Evocation, Magus, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Euphoric Renewal",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Necromancy, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Isolation",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Illusion, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Inevitable Destination",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Conjuration, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Purifying Veil",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Evocation, Good, Rare, Water, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Shaken Confidence",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Emotion, Enchantment, Mental, Misfortune, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Weaponize Secret",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Divination, Mental, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Wind Whispers",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Enchantment, Linguistic, Mental, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Wordsmith",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Rare, Transmutation, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Path of Least Resistance",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Divination, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Waking Dream",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Enchantment, Mental, Focus",
+		"rarity": "Common"
+	},
+	{
+		"name": "Fearful Feast",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Fear, Mental, Necromancy, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Confront Selves",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Illusion, Mental, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Tireless Worker",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Healing, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Repel Metal",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Focus, Manipulate, Metal, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Wood Walk",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Manipulate, Uncommon, Wood",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Fortissimo Composition",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Bard, Concentrate, Focus, Spellshape, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Disperse into Air",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Air, Cleric, Focus, Manipulate, Polymorph, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Competitive Edge",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Emotion, Focus, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Pulse of Civilization",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Manipulate, Scrying, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Delusional Pride",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Emotion, Focus, Manipulate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Artistic Flourish",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Darkened Sight",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Darkness, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Eradicate Undeath",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Manipulate, Uncommon, Vitality",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Destructive Aura",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Aura, Cleric, Concentrate, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dreamer's Call",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Illusion, Incapacitation, Manipulate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Localized Quake",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Earth, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unity",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Fortune, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Tempt Fate",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Focus, Fortune, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Flame Barrier",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Word of Freedom",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Rebuke Death",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Healing, Manipulate, Uncommon, Vitality",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Take its Course",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Fortune, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Know the Enemy",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Focus, Fortune, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Lucky Break",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Mystic Beacon",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Enduring Might",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Touch of the Moon",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Focus, Light, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Nature's Bounty",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Plant, Uncommon, Vitality",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shared Nightmare",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Emotion, Focus, Incapacitation, Manipulate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Retributive Pain",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Mental, Nonlethal, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Captivating Adoration",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Aura, Cleric, Concentrate, Emotion, Focus, Manipulate, Mental, Uncommon, Visual",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Perfected Body",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Protector's Sphere",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Aura, Cleric, Concentrate, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Safeguard Secret",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Manipulate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Vital Luminance",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Aura, Cleric, Focus, Light, Manipulate, Uncommon, Vitality",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Traveler's Transit",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Trickster's Twin",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Illusion, Manipulate, Uncommon, Visual",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Glimpse the Truth",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Aura, Cleric, Focus, Manipulate, Revelation, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Commanding Lash",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Linguistic, Manipulate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Malignant Sustenance",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Manipulate, Uncommon, Void",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Downpour",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Focus, Manipulate, Uncommon, Water",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Precious Metals",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Focus, Manipulate, Metal, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Zeal for Battle",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Cleric, Concentrate, Emotion, Focus, Fortune, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Stormwind Flight",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Air, Concentrate, Druid, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Rune of Observation",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Energy Absorption",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Focus, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Spiral of Horrors",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Aura, Concentrate, Emotion, Fear, Focus, Manipulate, Mental, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Community Restoration",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Healing, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Invisibility Cloak",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Focus, Illusion, Manipulate, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shifting Form",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Morph, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Interdisciplinary Incantation",
+		"rank": "4",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Uncommon, Wizard",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Litany against Sloth",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Champion, Evocation, Good, Litany, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Wind Jump",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Air, Monk, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Abyssal Wrath",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Evocation, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Arcane Countermeasure",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Abjuration, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Celestial Brand",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Curse, Necromancy, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dragon Wings",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Morph, Sorcerer, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Elemental Blast",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Evocation, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Fey Glamour",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Illusion, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Grasping Grave",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Necromancy, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Hellfire Plume",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Evil, Evocation, Fire, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unusual Anatomy",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Polymorph, Sorcerer, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "You're Mine",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Emotion, Enchantment, Incapacitation, Mental, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dance of Darkness",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Darkness, Evocation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shadow Jump",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Conjuration, Shadow, Teleportation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Litany of Self-Interest",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Champion, Enchantment, Evil, Litany, Mental, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Consuming Darkness",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Evocation, Shadow, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Establish Ward",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Abjuration, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shepherd of Souls",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Healing, Necromancy, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Wish-Twisted Form",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Sorcerer, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Glacial Heart",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Evocation, Hex, Rare, Witch, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Shall Not Falter, Shall Not Rout",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Healing, Necromancy, Rare, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Steal the Sky",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Air, Evocation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Spellmaster's Ward",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Abjuration, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Wronged Monk's Wrath",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Electricity, Evocation, Force, Monk, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Cleansing Flames",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Fire, Healing, Necromancy, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Over the Coals",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Hex, Mental, Necromancy, Rare, Witch, Focus",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Unblinking Flame Aura",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Divination, Fire, Healing, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unbreaking Wave Vapor",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Abjuration, Uncommon, Water, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unfolding Wind Buffet",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Air, Evocation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Untwisting Iron Roots",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Earth, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Rewrite Possibility",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Divination, Fortune, Mental, Prediction, Sorcerer, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ode to Ouroboros",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Bard, Composition, Concentrate, Focus, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Symphony of the Unfettered Heart",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Bard, Composition, Concentrate, Focus, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Hunter's Vision",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Ranger, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Terrain Transposition",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Manipulate, Ranger, Teleportation, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Curse of Death",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Concentrate, Curse, Death, Focus, Hex, Manipulate, Uncommon, Void, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Restorative Moment",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Concentrate, Focus, Hex, Manipulate, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Champion's Sacrifice",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Abjuration, Champion, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shadow Illusion",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Auditory, Illusion, Shadow, Uncommon, Visual, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ancestral Form",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Cursebound, Oracle, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Claim Undead",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Cursebound, Incapacitation, Necromancy, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dread Secret",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Cursebound, Divination, Emotion, Fear, Mental, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Flaming Fusillade",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Cursebound, Evocation, Fire, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Heroic Feat",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Cursebound, Divination, Mental, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Life-Giving Form",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Cursebound, Healing, Light, Necromancy, Oracle, Positive, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Moonlight Bridge",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Conjuration, Cursebound, Light, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Tempest Form",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Cursebound, Oracle, Polymorph, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Speaking Sky",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Air, Divination, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shambling Horror",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Evil, Necromancy, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "For Love, For Lightning",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Electricity, Evocation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Manifold Lives",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Cursebound, Divination, Emotion, Mental, Oracle, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ash Form",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Cursebound, Oracle, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Primal Summons",
+		"rank": "6",
+		"tradition": "",
+		"trait": "Concentrate, Druid, Focus, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Litany of Righteousness",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Champion, Evocation, Good, Litany, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Litany of Depravity",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Champion, Evil, Evocation, Litany, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shadow's Web",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Evocation, Monk, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Hasted Assault",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Magus, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Darklight",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Darkness, Evocation, Shadow, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unblinking Flame Emblem",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Divination, Fire, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unbreaking Wave Barrier",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Abjuration, Uncommon, Water, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unfolding Wind Blitz",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Air, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Untwisting Iron Augmentation",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Earth, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Soothing Ballad",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Bard, Composition, Concentrate, Emotion, Focus, Healing, Manipulate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Quivering Palm",
+		"rank": "8",
+		"tradition": "",
+		"trait": "Incapacitation, Monk, Necromancy, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Medusa's Wrath",
+		"rank": "8",
+		"tradition": "",
+		"trait": "Monk, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Impaling Briars",
+		"rank": "8",
+		"tradition": "",
+		"trait": "Concentrate, Druid, Focus, Manipulate, Plant, Uncommon, Wood",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Empty Body",
+		"rank": "9",
+		"tradition": "",
+		"trait": "Conjuration, Monk, Teleportation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Ki Form",
+		"rank": "9",
+		"tradition": "",
+		"trait": "Monk, Polymorph, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unblinking Flame Ignition",
+		"rank": "9",
+		"tradition": "",
+		"trait": "Divination, Fire, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unbreaking Wave Containment",
+		"rank": "9",
+		"tradition": "",
+		"trait": "Evocation, Incapacitation, Uncommon, Water, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Unfolding Wind Crash",
+		"rank": "9",
+		"tradition": "",
+		"trait": "Air, Evocation, Move, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Untwisting Iron Pillar",
+		"rank": "9",
+		"tradition": "",
+		"trait": "Abjuration, Earth, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Storm Lord",
+		"rank": "9",
+		"tradition": "",
+		"trait": "Air, Concentrate, Druid, Electricity, Focus, Manipulate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Hero's Defiance",
+		"rank": "10",
+		"tradition": "",
+		"trait": "Champion, Healing, Necromancy, Positive, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Apex Companion",
+		"rank": "10",
+		"tradition": "",
+		"trait": "Druid, Polymorph, Transmutation, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Song of the Fallen",
+		"rank": "10",
+		"tradition": "",
+		"trait": "Bard, Composition, Necromancy, Uncommon, Focus",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Fatal Aria",
+		"rank": "10",
+		"tradition": "",
+		"trait": "Bard, Composition, Concentrate, Death, Emotion, Focus, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Pied Piping",
+		"rank": "10",
+		"tradition": "",
+		"trait": "Bard, Composition, Concentrate, Focus, Incapacitation, Mental, Sonic, Uncommon",
+		"rarity": "Uncommon"
+	}
+]

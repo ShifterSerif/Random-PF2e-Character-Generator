@@ -1,1 +1,716 @@
-[{"name":"Approximate","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Cantrip, Detection, Divination","rarity":"Common"},{"name":"Bullhorn","rank":"1","tradition":"Arcane, Divine, Occult","trait":"Auditory, Cantrip, Illusion","rarity":"Common"},{"name":"Gale Bla","rank":"1","tradition":"Arcane, Primal","trait":"Air, Cantrip, Evocation","rarity":"Common"},{"name":"Infectious Enthusiasm","rank":"1","tradition":"Arcane, Occult","trait":"Cantrip, Emotion, Enchantment, Mental","rarity":"Common"},{"name":"Protect Companion","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Abjuration, Cantrip","rarity":"Common"},{"name":"Puff of Poison","rank":"1","tradition":"Arcane, Primal","trait":"Cantrip, Evocation, Inhaled, Poison","rarity":"Common"},{"name":"Scatter Scree","rank":"1","tradition":"Arcane, Primal","trait":"Cantrip, Earth, Evocation","rarity":"Common"},{"name":"Spout","rank":"1","tradition":"Arcane, Primal","trait":"Cantrip, Evocation, Water","rarity":"Common"},{"name":"Invoke True Name","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Cantrip, Enchantment, Rare, True Name","rarity":"Rare"},{"name":"Phase Bolt","rank":"1","tradition":"Arcane, Occult","trait":"Attack, Cantrip, Evocation","rarity":"Common"},{"name":"Warp ep","rank":"1","tradition":"Arcane, Occult","trait":"Cantrip, Conjuration","rarity":"Common"},{"name":"Time Sense","rank":"1","tradition":"Arcane, Occult","trait":"Cantrip, Divination","rarity":"Common"},{"name":"Ancient Du","rank":"1","tradition":"Arcane, Divine","trait":"Cantrip, Necromancy, Negative, Uncommon","rarity":"Uncommon"},{"name":"Torturous Trauma","rank":"1","tradition":"Arcane, Divine","trait":"Cantrip, Necromancy, Nonlethal, Uncommon","rarity":"Uncommon"},{"name":"Musical Accompaniment","rank":"1","tradition":"Arcane, Occult","trait":"Auditory, Cantrip, Illusion","rarity":"Common"},{"name":"Deep Breath","rank":"1","tradition":"Arcane, Primal","trait":"Air, Cantrip, Manipulate","rarity":"Common"},{"name":"Slashing Gu","rank":"1","tradition":"Arcane, Primal","trait":"Air, Attack, Cantrip, Concentrate, Manipulate","rarity":"Common"},{"name":"Glass Shield","rank":"1","tradition":"Arcane, Primal","trait":"Cantrip, Concentrate, Earth","rarity":"Common"},{"name":"Tremor Signs","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Cantrip, Earth, Manipulate","rarity":"Common"},{"name":"Eat Fire","rank":"1","tradition":"Arcane, Occult, Primal","trait":"Cantrip, Fire, Manipulate","rarity":"Common"},{"name":"Illuminate","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Cantrip, Fire, Manipulate","rarity":"Common"},{"name":"Detect Metal","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Cantrip, Concentrate, Detection, Manipulate, Metal","rarity":"Common"},{"name":"Needle Darts","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Attack, Cantrip, Concentrate, Manipulate, Metal","rarity":"Common"},{"name":"Draw Moiure","rank":"1","tradition":"Arcane, Divine, Primal","trait":"Cantrip, Concentrate, Manipulate, Water","rarity":"Common"},{"name":"Root Reading","rank":"1","tradition":"Arcane, Primal","trait":"Cantrip, Concentrate, Manipulate, Wood","rarity":"Common"},{"name":"Take Root","rank":"1","tradition":"Arcane, Primal","trait":"Cantrip, Manipulate, Plant, Wood","rarity":"Common"},{"name":"Timber","rank":"1","tradition":"Arcane, Primal","trait":"Cantrip, Concentrate, Manipulate, Wood","rarity":"Common"},{"name":"Elemental Counter","rank":"1","tradition":"Arcane, Primal, Elemental","trait":"Cantrip, Concentrate, Uncommon","rarity":"Uncommon"},{"name":"Cauic Bla","rank":"1","tradition":"Arcane, Primal","trait":"Acid, Cantrip, Concentrate, Manipulate","rarity":"Common"},{"name":"Daze","rank":"1","tradition":"Arcane, Divine, Occult","trait":"Cantrip, Concentrate, Manipulate, Mental, Nonlethal","rarity":"Common"},{"name":"Detect Magic","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Cantrip, Concentrate, Detection, Manipulate","rarity":"Common"},{"name":"Electric Arc","rank":"1","tradition":"Arcane, Primal","trait":"Cantrip, Concentrate, Electricity, Manipulate","rarity":"Common"},{"name":"Figment","rank":"1","tradition":"Arcane, Occult","trait":"Cantrip, Concentrate, Illusion, Manipulate, Subtle","rarity":"Common"},{"name":"Frobite","rank":"1","tradition":"Arcane, Primal","trait":"Cantrip, Cold, Concentrate, Manipulate","rarity":"Common"},{"name":"Gouging Claw","rank":"1","tradition":"Arcane, Primal","trait":"Attack, Cantrip, Concentrate, Manipulate, Morph","rarity":"Common"},{"name":"Ignition","rank":"1","tradition":"Arcane, Primal","trait":"Attack, Cantrip, Concentrate, Fire, Manipulate","rarity":"Common"},{"name":"Light","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Cantrip, Concentrate, Light, Manipulate","rarity":"Common"},{"name":"Message","rank":"1","tradition":"Arcane, Divine, Occult","trait":"Auditory, Cantrip, Concentrate, Illusion, Linguiic, Mental, Subtle","rarity":"Common"},{"name":"Preidigitation","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Cantrip, Concentrate, Manipulate","rarity":"Common"},{"name":"Read Aura","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Cantrip, Concentrate, Detection, Manipulate","rarity":"Common"},{"name":"Shield","rank":"1","tradition":"Arcane, Divine, Occult","trait":"Cantrip, Concentrate, Force","rarity":"Common"},{"name":"Sigil","rank":"1","tradition":"Arcane, Divine, Occult, Primal","trait":"Cantrip, Concentrate, Manipulate","rarity":"Common"},{"name":"Summon Inrument","rank":"1","tradition":"Arcane, Divine, Occult","trait":"Cantrip, Concentrate, Manipulate","rarity":"Common"},{"name":"Tangle Vine","rank":"1","tradition":"Arcane, Primal","trait":"Attack, Cantrip, Concentrate, Manipulate, Plant, Wood","rarity":"Common"},{"name":"Telekinetic Hand","rank":"1","tradition":"Arcane, Occult","trait":"Cantrip, Concentrate, Manipulate","rarity":"Common"},{"name":"Telekinetic Projectile","rank":"1","tradition":"Arcane, Occult","trait":"Attack, Cantrip, Concentrate, Manipulate","rarity":"Common"},{"name":"Void Warp","rank":"1","tradition":"Arcane, Divine, Occult","trait":"Cantrip, Concentrate, Manipulate, Void","rarity":"Common"},{"name":"Haunting Hymn","rank":"1","tradition":"Divine, Occult","trait":"Auditory, Cantrip, Evocation, Sonic","rarity":"Common"},{"name":"Read the Air","rank":"1","tradition":"Divine, Occult","trait":"Cantrip, Divination","rarity":"Common"},{"name":"Wash Your Luck","rank":"1","tradition":"Divine, Occult","trait":"Abjuration, Cantrip, Fortune","rarity":"Common"},{"name":"Inside Ropes","rank":"1","tradition":"Divine, Occult, Primal","trait":"Cantrip, Conjuration, Uncommon","rarity":"Uncommon"},{"name":"Rousing Splash","rank":"1","tradition":"Divine, Primal","trait":"Cantrip, Concentrate, Manipulate, Water","rarity":"Common"},{"name":"Divine Lance","rank":"1","tradition":"Divine","trait":"Attack, Cantrip, Concentrate, Manipulate, Sanctified, Spirit","rarity":"Common"},{"name":"Forbidding Ward","rank":"1","tradition":"Divine, Occult","trait":"Cantrip, Concentrate, Manipulate","rarity":"Common"},{"name":"Guidance","rank":"1","tradition":"Divine, Occult, Primal","trait":"Cantrip, Concentrate","rarity":"Common"},{"name":"Know the Way","rank":"1","tradition":"Divine, Occult, Primal","trait":"Cantrip, Concentrate, Detection, Manipulate","rarity":"Common"},{"name":"abilize","rank":"1","tradition":"Divine, Primal","trait":"Cantrip, Concentrate, Healing, Manipulate, Vitality","rarity":"Common"},{"name":"Vitality Lash","rank":"1","tradition":"Divine, Primal","trait":"Cantrip, Concentrate, Manipulate, Vitality","rarity":"Common"},{"name":"Join Pas","rank":"1","tradition":"Occult","trait":"Cantrip, Divination, Mental, Uncommon","rarity":"Uncommon"},{"name":"Tame","rank":"1","tradition":"Occult, Primal","trait":"Auditory, Cantrip, Enchantment, Mental","rarity":"Common"},{"name":"Healing Plaer","rank":"1","tradition":"Primal","trait":"Cantrip, Earth, Transmutation","rarity":"Common"},{"name":"Silver's Refrain","rank":"1","tradition":"","trait":"Abjuration, Bard, Cantrip, Composition, Rare","rarity":"Rare"},{"name":"Spirit Object","rank":"1","tradition":"","trait":"Cantrip, Hex, Necromancy, Rare, Witch","rarity":"Rare"},{"name":"Boo Eidolon","rank":"1","tradition":"","trait":"Cantrip, Evocation, Summoner, Uncommon","rarity":"Uncommon"},{"name":"Reinforce Eidolon","rank":"1","tradition":"","trait":"Abjuration, Cantrip, Summoner, Uncommon","rarity":"Uncommon"},{"name":"Buzzing Bites","rank":"1","tradition":"","trait":"Cantrip, Evocation, Hex, Rare, Witch","rarity":"Rare"},{"name":"Telekinetic Rend","rank":"1","tradition":"","trait":"Cantrip, Evocation, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Glimpse Weakness","rank":"1","tradition":"","trait":"Cantrip, Divination, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Thermal asis","rank":"1","tradition":"","trait":"Abjuration, Cantrip, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Forbidden Thought","rank":"1","tradition":"","trait":"Cantrip, Enchantment, Mental, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Imaginary Weapon","rank":"1","tradition":"","trait":"Attack, Cantrip, Evocation, Force, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Diortion Lens","rank":"1","tradition":"","trait":"Cantrip, Conjuration, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Pact Broker","rank":"1","tradition":"","trait":"Cantrip, Enchantment, Hex, Mental, Rare, Witch","rarity":"Rare"},{"name":"Fro's Touch","rank":"1","tradition":"","trait":"Arcane, Cantrip, Cold, Conjuration, Rare","rarity":"Rare"},{"name":"Courageous Anthem","rank":"1","tradition":"","trait":"Bard, Cantrip, Composition, Concentrate, Emotion, Mental, Uncommon","rarity":"Uncommon"},{"name":"Song of rength","rank":"1","tradition":"","trait":"Bard, Cantrip, Composition, Concentrate, Emotion, Mental, Uncommon","rarity":"Uncommon"},{"name":"Uplifting Overture","rank":"1","tradition":"","trait":"Bard, Cantrip, Composition, Concentrate, Emotion, Mental, Uncommon","rarity":"Uncommon"},{"name":"Clinging Ice","rank":"1","tradition":"","trait":"Cantrip, Cold, Hex, Manipulate, Uncommon, Witch","rarity":"Uncommon"},{"name":"Discern Secrets","rank":"1","tradition":"","trait":"Cantrip, Hex, Manipulate, Uncommon, Witch","rarity":"Uncommon"},{"name":"Evil Eye","rank":"1","tradition":"","trait":"Cantrip, Curse, Hex, Manipulate, Uncommon, Witch","rarity":"Uncommon"},{"name":"Nudge Fate","rank":"1","tradition":"","trait":"Cantrip, Concentrate, Hex, Uncommon, Witch","rarity":"Uncommon"},{"name":"Shroud of Night","rank":"1","tradition":"","trait":"Cantrip, Darkness, Hex, Manipulate, Uncommon, Witch","rarity":"Uncommon"},{"name":"oke the Heart","rank":"1","tradition":"","trait":"Cantrip, Concentrate, Emotion, Hex, Uncommon, Witch","rarity":"Uncommon"},{"name":"Wilding Word","rank":"1","tradition":"","trait":"Cantrip, Hex, Mental, Uncommon, Witch","rarity":"Uncommon"},{"name":"Rallying Anthem","rank":"2nd","tradition":"","trait":"Bard, Cantrip, Composition, Concentrate, Emotion, Mental, Uncommon","rarity":"Uncommon"},{"name":"Triple Time","rank":"2nd","tradition":"","trait":"Bard, Cantrip, Composition, Emotion, Manipulate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Vector Screen","rank":"3","tradition":"","trait":"Abjuration, Cantrip, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Omnidirectional Scan","rank":"3","tradition":"","trait":"Cantrip, Divination, Psychic, Scrying, Uncommon","rarity":"Uncommon"},{"name":"Entropic Wheel","rank":"3","tradition":"","trait":"Cantrip, Cold, Evocation, Fire, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Shatter Mind","rank":"3","tradition":"","trait":"Cantrip, Evocation, Mental, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Aral Rain","rank":"3","tradition":"","trait":"Cantrip, Evocation, Force, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Gholy Shift","rank":"3","tradition":"","trait":"Cantrip, Conjuration, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Dirge of Doom","rank":"3","tradition":"","trait":"Bard, Cantrip, Composition, Concentrate, Emotion, Fear, Mental, Uncommon","rarity":"Uncommon"},{"name":"Song of Marching","rank":"3","tradition":"","trait":"Bard, Cantrip, Composition, Concentrate, Mental, Uncommon","rarity":"Uncommon"},{"name":"Dancing Blade","rank":"5","tradition":"","trait":"Cantrip, Evocation, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Foresee the Path","rank":"5","tradition":"","trait":"Cantrip, Divination, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Rediribute Potential","rank":"5","tradition":"","trait":"Cantrip, Cold, Evocation, Fire, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Contagious Idea","rank":"5","tradition":"","trait":"Cantrip, Emotion, Enchantment, Mental, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Hologram Cage","rank":"5","tradition":"","trait":"Cantrip, Illusion, Light, Psychic, Uncommon","rarity":"Uncommon"},{"name":"Tesseract Tunnel","rank":"5","tradition":"","trait":"Cantrip, Conjuration, Psychic, Teleportation, Uncommon","rarity":"Uncommon"},{"name":"House of Imaginary Walls","rank":"5","tradition":"","trait":"Bard, Cantrip, Composition, Illusion, Manipulate, Uncommon, Visual","rarity":"Uncommon"},{"name":"Allegro","rank":"7","tradition":"","trait":"Bard, Cantrip, Composition, Concentrate, Emotion, Mental, Uncommon","rarity":"Uncommon"}]
+[
+	{
+		"name": "Approximate",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Cantrip, Detection, Divination",
+		"rarity": "Common"
+	},
+	{
+		"name": "Bullhorn",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult",
+		"trait": "Auditory, Cantrip, Illusion",
+		"rarity": "Common"
+	},
+	{
+		"name": "Gale Bla",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Air, Cantrip, Evocation",
+		"rarity": "Common"
+	},
+	{
+		"name": "Infectious Enthusiasm",
+		"rank": "1",
+		"tradition": "Arcane, Occult",
+		"trait": "Cantrip, Emotion, Enchantment, Mental",
+		"rarity": "Common"
+	},
+	{
+		"name": "Protect Companion",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Abjuration, Cantrip",
+		"rarity": "Common"
+	},
+	{
+		"name": "Puff of Poison",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Cantrip, Evocation, Inhaled, Poison",
+		"rarity": "Common"
+	},
+	{
+		"name": "Scatter Scree",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Cantrip, Earth, Evocation",
+		"rarity": "Common"
+	},
+	{
+		"name": "Spout",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Cantrip, Evocation, Water",
+		"rarity": "Common"
+	},
+	{
+		"name": "Invoke True Name",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Cantrip, Enchantment, Rare, True Name",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Phase Bolt",
+		"rank": "1",
+		"tradition": "Arcane, Occult",
+		"trait": "Attack, Cantrip, Evocation",
+		"rarity": "Common"
+	},
+	{
+		"name": "Warp ep",
+		"rank": "1",
+		"tradition": "Arcane, Occult",
+		"trait": "Cantrip, Conjuration",
+		"rarity": "Common"
+	},
+	{
+		"name": "Time Sense",
+		"rank": "1",
+		"tradition": "Arcane, Occult",
+		"trait": "Cantrip, Divination",
+		"rarity": "Common"
+	},
+	{
+		"name": "Ancient Du",
+		"rank": "1",
+		"tradition": "Arcane, Divine",
+		"trait": "Cantrip, Necromancy, Negative, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Torturous Trauma",
+		"rank": "1",
+		"tradition": "Arcane, Divine",
+		"trait": "Cantrip, Necromancy, Nonlethal, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Musical Accompaniment",
+		"rank": "1",
+		"tradition": "Arcane, Occult",
+		"trait": "Auditory, Cantrip, Illusion",
+		"rarity": "Common"
+	},
+	{
+		"name": "Deep Breath",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Air, Cantrip, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Slashing Gu",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Air, Attack, Cantrip, Concentrate, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Glass Shield",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Cantrip, Concentrate, Earth",
+		"rarity": "Common"
+	},
+	{
+		"name": "Tremor Signs",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Cantrip, Earth, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Eat Fire",
+		"rank": "1",
+		"tradition": "Arcane, Occult, Primal",
+		"trait": "Cantrip, Fire, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Illuminate",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Cantrip, Fire, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Detect Metal",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Cantrip, Concentrate, Detection, Manipulate, Metal",
+		"rarity": "Common"
+	},
+	{
+		"name": "Needle Darts",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Attack, Cantrip, Concentrate, Manipulate, Metal",
+		"rarity": "Common"
+	},
+	{
+		"name": "Draw Moiure",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Primal",
+		"trait": "Cantrip, Concentrate, Manipulate, Water",
+		"rarity": "Common"
+	},
+	{
+		"name": "Root Reading",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Cantrip, Concentrate, Manipulate, Wood",
+		"rarity": "Common"
+	},
+	{
+		"name": "Take Root",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Cantrip, Manipulate, Plant, Wood",
+		"rarity": "Common"
+	},
+	{
+		"name": "Timber",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Cantrip, Concentrate, Manipulate, Wood",
+		"rarity": "Common"
+	},
+	{
+		"name": "Elemental Counter",
+		"rank": "1",
+		"tradition": "Arcane, Primal, Elemental",
+		"trait": "Cantrip, Concentrate, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Cauic Bla",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Acid, Cantrip, Concentrate, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Daze",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult",
+		"trait": "Cantrip, Concentrate, Manipulate, Mental, Nonlethal",
+		"rarity": "Common"
+	},
+	{
+		"name": "Detect Magic",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Cantrip, Concentrate, Detection, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Electric Arc",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Cantrip, Concentrate, Electricity, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Figment",
+		"rank": "1",
+		"tradition": "Arcane, Occult",
+		"trait": "Cantrip, Concentrate, Illusion, Manipulate, Subtle",
+		"rarity": "Common"
+	},
+	{
+		"name": "Frobite",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Cantrip, Cold, Concentrate, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Gouging Claw",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Attack, Cantrip, Concentrate, Manipulate, Morph",
+		"rarity": "Common"
+	},
+	{
+		"name": "Ignition",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Attack, Cantrip, Concentrate, Fire, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Light",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Cantrip, Concentrate, Light, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Message",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult",
+		"trait": "Auditory, Cantrip, Concentrate, Illusion, Linguiic, Mental, Subtle",
+		"rarity": "Common"
+	},
+	{
+		"name": "Preidigitation",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Cantrip, Concentrate, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Read Aura",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Cantrip, Concentrate, Detection, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Shield",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult",
+		"trait": "Cantrip, Concentrate, Force",
+		"rarity": "Common"
+	},
+	{
+		"name": "Sigil",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult, Primal",
+		"trait": "Cantrip, Concentrate, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Summon Inrument",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult",
+		"trait": "Cantrip, Concentrate, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Tangle Vine",
+		"rank": "1",
+		"tradition": "Arcane, Primal",
+		"trait": "Attack, Cantrip, Concentrate, Manipulate, Plant, Wood",
+		"rarity": "Common"
+	},
+	{
+		"name": "Telekinetic Hand",
+		"rank": "1",
+		"tradition": "Arcane, Occult",
+		"trait": "Cantrip, Concentrate, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Telekinetic Projectile",
+		"rank": "1",
+		"tradition": "Arcane, Occult",
+		"trait": "Attack, Cantrip, Concentrate, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Void Warp",
+		"rank": "1",
+		"tradition": "Arcane, Divine, Occult",
+		"trait": "Cantrip, Concentrate, Manipulate, Void",
+		"rarity": "Common"
+	},
+	{
+		"name": "Haunting Hymn",
+		"rank": "1",
+		"tradition": "Divine, Occult",
+		"trait": "Auditory, Cantrip, Evocation, Sonic",
+		"rarity": "Common"
+	},
+	{
+		"name": "Read the Air",
+		"rank": "1",
+		"tradition": "Divine, Occult",
+		"trait": "Cantrip, Divination",
+		"rarity": "Common"
+	},
+	{
+		"name": "Wash Your Luck",
+		"rank": "1",
+		"tradition": "Divine, Occult",
+		"trait": "Abjuration, Cantrip, Fortune",
+		"rarity": "Common"
+	},
+	{
+		"name": "Inside Ropes",
+		"rank": "1",
+		"tradition": "Divine, Occult, Primal",
+		"trait": "Cantrip, Conjuration, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Rousing Splash",
+		"rank": "1",
+		"tradition": "Divine, Primal",
+		"trait": "Cantrip, Concentrate, Manipulate, Water",
+		"rarity": "Common"
+	},
+	{
+		"name": "Divine Lance",
+		"rank": "1",
+		"tradition": "Divine",
+		"trait": "Attack, Cantrip, Concentrate, Manipulate, Sanctified, Spirit",
+		"rarity": "Common"
+	},
+	{
+		"name": "Forbidding Ward",
+		"rank": "1",
+		"tradition": "Divine, Occult",
+		"trait": "Cantrip, Concentrate, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Guidance",
+		"rank": "1",
+		"tradition": "Divine, Occult, Primal",
+		"trait": "Cantrip, Concentrate",
+		"rarity": "Common"
+	},
+	{
+		"name": "Know the Way",
+		"rank": "1",
+		"tradition": "Divine, Occult, Primal",
+		"trait": "Cantrip, Concentrate, Detection, Manipulate",
+		"rarity": "Common"
+	},
+	{
+		"name": "abilize",
+		"rank": "1",
+		"tradition": "Divine, Primal",
+		"trait": "Cantrip, Concentrate, Healing, Manipulate, Vitality",
+		"rarity": "Common"
+	},
+	{
+		"name": "Vitality Lash",
+		"rank": "1",
+		"tradition": "Divine, Primal",
+		"trait": "Cantrip, Concentrate, Manipulate, Vitality",
+		"rarity": "Common"
+	},
+	{
+		"name": "Join Pas",
+		"rank": "1",
+		"tradition": "Occult",
+		"trait": "Cantrip, Divination, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Tame",
+		"rank": "1",
+		"tradition": "Occult, Primal",
+		"trait": "Auditory, Cantrip, Enchantment, Mental",
+		"rarity": "Common"
+	},
+	{
+		"name": "Healing Plaer",
+		"rank": "1",
+		"tradition": "Primal",
+		"trait": "Cantrip, Earth, Transmutation",
+		"rarity": "Common"
+	},
+	{
+		"name": "Silver's Refrain",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Bard, Cantrip, Composition, Rare",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Spirit Object",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Hex, Necromancy, Rare, Witch",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Boo Eidolon",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Evocation, Summoner, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Reinforce Eidolon",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Cantrip, Summoner, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Buzzing Bites",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Evocation, Hex, Rare, Witch",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Telekinetic Rend",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Evocation, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Glimpse Weakness",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Divination, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Thermal asis",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Abjuration, Cantrip, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Forbidden Thought",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Enchantment, Mental, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Imaginary Weapon",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Attack, Cantrip, Evocation, Force, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Diortion Lens",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Conjuration, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Pact Broker",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Enchantment, Hex, Mental, Rare, Witch",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Fro's Touch",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Arcane, Cantrip, Cold, Conjuration, Rare",
+		"rarity": "Rare"
+	},
+	{
+		"name": "Courageous Anthem",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Bard, Cantrip, Composition, Concentrate, Emotion, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Song of rength",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Bard, Cantrip, Composition, Concentrate, Emotion, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Uplifting Overture",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Bard, Cantrip, Composition, Concentrate, Emotion, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Clinging Ice",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Cold, Hex, Manipulate, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Discern Secrets",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Hex, Manipulate, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Evil Eye",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Curse, Hex, Manipulate, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Nudge Fate",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Concentrate, Hex, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shroud of Night",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Darkness, Hex, Manipulate, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "oke the Heart",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Concentrate, Emotion, Hex, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Wilding Word",
+		"rank": "1",
+		"tradition": "",
+		"trait": "Cantrip, Hex, Mental, Uncommon, Witch",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Rallying Anthem",
+		"rank": "2nd",
+		"tradition": "",
+		"trait": "Bard, Cantrip, Composition, Concentrate, Emotion, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Triple Time",
+		"rank": "2nd",
+		"tradition": "",
+		"trait": "Bard, Cantrip, Composition, Emotion, Manipulate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Vector Screen",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Abjuration, Cantrip, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Omnidirectional Scan",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cantrip, Divination, Psychic, Scrying, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Entropic Wheel",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cantrip, Cold, Evocation, Fire, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Shatter Mind",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cantrip, Evocation, Mental, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Aral Rain",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cantrip, Evocation, Force, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Gholy Shift",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Cantrip, Conjuration, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dirge of Doom",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Bard, Cantrip, Composition, Concentrate, Emotion, Fear, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Song of Marching",
+		"rank": "3",
+		"tradition": "",
+		"trait": "Bard, Cantrip, Composition, Concentrate, Mental, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Dancing Blade",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Cantrip, Evocation, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Foresee the Path",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Cantrip, Divination, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Rediribute Potential",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Cantrip, Cold, Evocation, Fire, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Contagious Idea",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Cantrip, Emotion, Enchantment, Mental, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Hologram Cage",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Cantrip, Illusion, Light, Psychic, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Tesseract Tunnel",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Cantrip, Conjuration, Psychic, Teleportation, Uncommon",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "House of Imaginary Walls",
+		"rank": "5",
+		"tradition": "",
+		"trait": "Bard, Cantrip, Composition, Illusion, Manipulate, Uncommon, Visual",
+		"rarity": "Uncommon"
+	},
+	{
+		"name": "Allegro",
+		"rank": "7",
+		"tradition": "",
+		"trait": "Bard, Cantrip, Composition, Concentrate, Emotion, Mental, Uncommon",
+		"rarity": "Uncommon"
+	}
+]

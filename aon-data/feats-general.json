@@ -1,1 +1,250 @@
-[{"name":"Adopted Ancestry","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"Gain access to ancestry feats from another ancestry"},{"name":"Armor Proficiency","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"Become trained in a type of armor"},{"name":"Breath Control","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"Hold your breath longer and gain benefits against inhaled threats"},{"name":"Canny Acumen","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"Become an expert in a saving throw or Perception"},{"name":"Diehard","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"Die at dying 5, rather than dying 4"},{"name":"Fast Recovery","rarity":"Common","trait":"General","level":"1","prerequisite":"Constitution 2","summary":"Regain more HP from rest, recover faster from disease"},{"name":"Feather Step","rarity":"Common","trait":"General","level":"1","prerequisite":"Dexterity 2","summary":"Step into difficult terrain"},{"name":"Fleet","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"Increase your Speed by 5 feet"},{"name":"Incredible Initiative","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"+2 to initiative rolls"},{"name":"Pet","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"You have a loyal pet"},{"name":"Ride","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"Automatically succeed at commanding your mount to move"},{"name":"Shield Block","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"Ward off a blow with your shield"},{"name":"Toughness","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"Increase your maximum HP and reduce the DCs of recovery checks"},{"name":"Weapon Proficiency","rarity":"Common","trait":"General","level":"1","prerequisite":"","summary":"Become trained in a weapon type"},{"name":"Ancestral Paragon","rarity":"Common","trait":"General","level":"3","prerequisite":"","summary":"Gain a 1st-level ancestry feat"},{"name":"Hireling Manager","rarity":"Common","trait":"General","level":"3","prerequisite":"Charisma 2","summary":"Hirelings gain +2 to skill checks."},{"name":"Improvised Repair","rarity":"Common","trait":"General","level":"3","prerequisite":"","summary":"Quickly patch a broken item."},{"name":"Keen Follower","rarity":"Common","trait":"General","level":"3","prerequisite":"","summary":"Improve bonuses when you Follow the Expert."},{"name":"Pick up the Pace","rarity":"Common","trait":"General","level":"3","prerequisite":"Constitution 2","summary":"Your group can Hustle for up to 20 minutes longer."},{"name":"Prescient Planner","rarity":"Common","trait":"General","level":"3","prerequisite":"","summary":"Procure a piece of adventuring gear"},{"name":"Skitter","rarity":"Common","trait":"General","level":"3","prerequisite":"Dexterity 3; Fleet","summary":"Crawl up to half your Speed."},{"name":"Thorough Search","rarity":"Common","trait":"General","level":"3","prerequisite":"expert in Perception","summary":"+2 to Perception when you spend twice as long Searching."},{"name":"Untrained Improvisation","rarity":"Common","trait":"General","level":"3","prerequisite":"","summary":"Become more adept at using untrained skills"},{"name":"Expeditious Search","rarity":"Common","trait":"General","level":"7","prerequisite":"master in Perception","summary":"Search areas in half the time"},{"name":"Prescient Consumable","rarity":"Common","trait":"General","level":"7","prerequisite":"Prescient Planner","summary":"Procure consumable items with Prescient Planner"},{"name":"Supertaster","rarity":"Common","trait":"General","level":"7","prerequisite":"master in Perception","summary":"Gain secret checks to detect poison by taste."},{"name":"A Home in Every Port","rarity":"Common","trait":"Downtime, General","level":"11","prerequisite":"Charisma 3","summary":"Spend downtime to gain free lodging for a night."},{"name":"Caravan Leader","rarity":"Common","trait":"General","level":"11","prerequisite":"Constitution 4; Pick up the Pace","summary":"Your group can Hustle for much longer."},{"name":"Incredible Investiture","rarity":"Common","trait":"General","level":"11","prerequisite":"Charisma 3","summary":"Invest up to 12 magic items"},{"name":"Incredible Scout","rarity":"Common","trait":"General","level":"11","prerequisite":"master in Perception","summary":"Grant allies +2 to initiative rolls when Scouting."},{"name":"True Perception","rarity":"Common","trait":"General, Revelation","level":"19","prerequisite":"legendary in Perception","summary":"Gain constant effects of _true seeing_."}]
+[
+	{
+		"name": "Adopted Ancestry",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Gain access to ancestry feats from another ancestry"
+	},
+	{
+		"name": "Armor Proficiency",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Become trained in a type of armor"
+	},
+	{
+		"name": "Breath Control",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Hold your breath longer and gain benefits against inhaled threats"
+	},
+	{
+		"name": "Canny Acumen",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Become an expert in a saving throw or Perception"
+	},
+	{
+		"name": "Diehard",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Die at dying 5, rather than dying 4"
+	},
+	{
+		"name": "Fast Recovery",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "Constitution 2",
+		"summary": "Regain more HP from rest, recover faster from disease"
+	},
+	{
+		"name": "Feather Step",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "Dexterity 2",
+		"summary": "Step into difficult terrain"
+	},
+	{
+		"name": "Fleet",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Increase your Speed by 5 feet"
+	},
+	{
+		"name": "Incredible Initiative",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "+2 to initiative rolls"
+	},
+	{
+		"name": "Pet",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "You have a loyal pet"
+	},
+	{
+		"name": "Ride",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Automatically succeed at commanding your mount to move"
+	},
+	{
+		"name": "Shield Block",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Ward off a blow with your shield"
+	},
+	{
+		"name": "Toughness",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Increase your maximum HP and reduce the DCs of recovery checks"
+	},
+	{
+		"name": "Weapon Proficiency",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Become trained in a weapon type"
+	},
+	{
+		"name": "Ancestral Paragon",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "3",
+		"prerequisite": "",
+		"summary": "Gain a 1st-level ancestry feat"
+	},
+	{
+		"name": "Hireling Manager",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "3",
+		"prerequisite": "Charisma 2",
+		"summary": "Hirelings gain +2 to skill checks."
+	},
+	{
+		"name": "Improvised Repair",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "3",
+		"prerequisite": "",
+		"summary": "Quickly patch a broken item."
+	},
+	{
+		"name": "Keen Follower",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "3",
+		"prerequisite": "",
+		"summary": "Improve bonuses when you Follow the Expert."
+	},
+	{
+		"name": "Pick up the Pace",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "3",
+		"prerequisite": "Constitution 2",
+		"summary": "Your group can Hustle for up to 20 minutes longer."
+	},
+	{
+		"name": "Prescient Planner",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "3",
+		"prerequisite": "",
+		"summary": "Procure a piece of adventuring gear"
+	},
+	{
+		"name": "Skitter",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "3",
+		"prerequisite": "Dexterity 3; Fleet",
+		"summary": "Crawl up to half your Speed."
+	},
+	{
+		"name": "Thorough Search",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "3",
+		"prerequisite": "expert in Perception",
+		"summary": "+2 to Perception when you spend twice as long Searching."
+	},
+	{
+		"name": "Untrained Improvisation",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "3",
+		"prerequisite": "",
+		"summary": "Become more adept at using untrained skills"
+	},
+	{
+		"name": "Expeditious Search",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "7",
+		"prerequisite": "master in Perception",
+		"summary": "Search areas in half the time"
+	},
+	{
+		"name": "Prescient Consumable",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "7",
+		"prerequisite": "Prescient Planner",
+		"summary": "Procure consumable items with Prescient Planner"
+	},
+	{
+		"name": "Supertaster",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "7",
+		"prerequisite": "master in Perception",
+		"summary": "Gain secret checks to detect poison by taste."
+	},
+	{
+		"name": "A Home in Every Port",
+		"rarity": "Common",
+		"trait": "Downtime, General",
+		"level": "11",
+		"prerequisite": "Charisma 3",
+		"summary": "Spend downtime to gain free lodging for a night."
+	},
+	{
+		"name": "Caravan Leader",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "11",
+		"prerequisite": "Constitution 4; Pick up the Pace",
+		"summary": "Your group can Hustle for much longer."
+	},
+	{
+		"name": "Incredible Investiture",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "11",
+		"prerequisite": "Charisma 3",
+		"summary": "Invest up to 12 magic items"
+	},
+	{
+		"name": "Incredible Scout",
+		"rarity": "Common",
+		"trait": "General",
+		"level": "11",
+		"prerequisite": "master in Perception",
+		"summary": "Grant allies +2 to initiative rolls when Scouting."
+	},
+	{
+		"name": "True Perception",
+		"rarity": "Common",
+		"trait": "General, Revelation",
+		"level": "19",
+		"prerequisite": "legendary in Perception",
+		"summary": "Gain constant effects of _true seeing_."
+	}
+]

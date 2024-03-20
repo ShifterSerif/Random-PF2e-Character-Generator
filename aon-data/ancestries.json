@@ -1,1 +1,362 @@
-[{"name":"Dwarf","hp":"10","size":"Medium","speed":"20 feet","ability_boost":"Constitution, Wisdom, Free","ability_flaw":"Charisma","language":"Common, Dwarven","vision":"Darkvision"},{"name":"Elf","hp":"6","size":"Medium","speed":"30 feet","ability_boost":"Dexterity, Intelligence, Free","ability_flaw":"Constitution","language":"Common, Elven","vision":"Low-Light Vision"},{"name":"Gnome","hp":"8","size":"Small","speed":"25 feet","ability_boost":"Constitution, Charisma, Free","ability_flaw":"Strength","language":"Common, Fey, Gnomish","vision":"Low-Light Vision"},{"name":"Goblin","hp":"6","size":"Small","speed":"25 feet","ability_boost":"Dexterity, Charisma, Free","ability_flaw":"Wisdom","language":"Common, Goblin","vision":"Darkvision"},{"name":"Halfling","hp":"6","size":"Small","speed":"25 feet","ability_boost":"Dexterity, Wisdom, Free","ability_flaw":"Strength","language":"Common, Halfling","vision":""},{"name":"Human","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Free, Free","ability_flaw":"","language":"Common","vision":""},{"name":"Leshy","hp":"8","size":"Small","speed":"25 feet","ability_boost":"Constitution, Wisdom, Free","ability_flaw":"Intelligence","language":"Common, Fey","vision":"Low-Light Vision"},{"name":"Orc","hp":"10","size":"Medium","speed":"25 feet","ability_boost":"Free, Free","ability_flaw":"","language":"Common, Orcish","vision":"Darkvision"},{"name":"Azarketi","hp":"8","size":"Medium","speed":"20 feet","ability_boost":"Constitution, Charisma, Free","ability_flaw":"Wisdom","language":"Alghollthu, Common","vision":"Low-Light Vision"},{"name":"Catfolk","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Dexterity, Charisma, Free","ability_flaw":"Wisdom","language":"Amurrun, Common","vision":"Low-Light Vision"},{"name":"Fetchling","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Dexterity, Free","ability_flaw":"","language":"Common, Shadowtongue","vision":"Darkvision"},{"name":"Gnoll","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Strength, Intelligence, Free","ability_flaw":"Wisdom","language":"Common, Gnoll","vision":"Low-Light Vision"},{"name":"Grippli","hp":"6","size":"Small","speed":"25 feet","ability_boost":"Dexterity, Wisdom, Free","ability_flaw":"Strength","language":"Common, Grippli","vision":"Low-Light Vision"},{"name":"Hobgoblin","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Constitution, Intelligence, Free","ability_flaw":"Wisdom","language":"Common, Goblin","vision":"Darkvision"},{"name":"Kitsune","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Charisma, Free","ability_flaw":"","language":"Common","vision":"Low-Light Vision"},{"name":"Kobold","hp":"6","size":"Small","speed":"25 feet","ability_boost":"Dexterity, Charisma, Free","ability_flaw":"Constitution","language":"Common, Draconic","vision":"Darkvision"},{"name":"Lizardfolk","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Strength, Wisdom, Free","ability_flaw":"Intelligence","language":"Common, Iruxi","vision":""},{"name":"Nagaji","hp":"10","size":"Medium","speed":"25 feet","ability_boost":"Strength, Free","ability_flaw":"","language":"Common, Nagaji","vision":"Low-Light Vision"},{"name":"Ratfolk","hp":"6","size":"Small","speed":"25 feet","ability_boost":"Dexterity, Intelligence, Free","ability_flaw":"Strength","language":"Common, Ysoki","vision":"Low-Light Vision"},{"name":"Tengu","hp":"6","size":"Medium","speed":"25 feet","ability_boost":"Dexterity, Free","ability_flaw":"","language":"Common, Tengu","vision":"Low-Light Vision"},{"name":"Vanara","hp":"6","size":"Medium","speed":"25 feet","ability_boost":"Dexterity, Free","ability_flaw":"","language":"Common, Vanara","vision":""},{"name":"Anadi","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Dexterity, Wisdom, Free","ability_flaw":"Constitution","language":"Anadi, Mwangi","vision":""},{"name":"Android","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Dexterity, Intelligence, Free","ability_flaw":"Charisma","language":"Androffan, Common","vision":"Low-Light Vision"},{"name":"Automaton","hp":"8","size":"Medium, Small","speed":"25 feet","ability_boost":"Strength, Free","ability_flaw":"","language":"Common, Utopian","vision":"Low-Light Vision"},{"name":"Conrasu","hp":"10","size":"Medium","speed":"25 feet","ability_boost":"Constitution, Wisdom, Free","ability_flaw":"Charisma","language":"Mwangi, Rasu","vision":""},{"name":"Fleshwarp","hp":"10","size":"Medium, Small","speed":"25 feet","ability_boost":"Constitution, Free","ability_flaw":"","language":"Common","vision":"Low-Light Vision"},{"name":"Ghoran","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Constitution, Free","ability_flaw":"","language":"Common, Sylvan","vision":"Low-Light Vision"},{"name":"Goloma","hp":"8","size":"Medium","speed":"30 feet","ability_boost":"Wisdom, Free","ability_flaw":"","language":"Goloma, Mwangi","vision":""},{"name":"Kashrishi","hp":"8","size":"Small","speed":"25 feet","ability_boost":"Constitution, Free","ability_flaw":"","language":"Common, Kashrishi","vision":""},{"name":"Poppet","hp":"6","size":"Small","speed":"25 feet","ability_boost":"Constitution, Charisma, Free","ability_flaw":"Dexterity","language":"Common","vision":"Darkvision"},{"name":"Shisk","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Intelligence, Free","ability_flaw":"","language":"Mwangi, Shisk","vision":"Darkvision"},{"name":"Shoony","hp":"6","size":"Small","speed":"25 feet","ability_boost":"Dexterity, Charisma, Free","ability_flaw":"Constitution","language":"Common, Shoony","vision":"Low-Light Vision"},{"name":"Skeleton","hp":"6","size":"Medium","speed":"25 feet","ability_boost":"Dexterity, Charisma, Free","ability_flaw":"Intelligence","language":"Common, Necril","vision":""},{"name":"Sprite","hp":"6","size":"Tiny","speed":"20 feet","ability_boost":"Dexterity, Intelligence, Free","ability_flaw":"Strength","language":"Common, Sylvan","vision":"Low-Light Vision"},{"name":"Strix","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Dexterity, Free","ability_flaw":"","language":"Common, Strix","vision":"Low-Light Vision"},{"name":"Vishkanya","hp":"8","size":"Medium","speed":"25 feet","ability_boost":"Dexterity, Free","ability_flaw":"","language":"Common, Vishkanya","vision":"Low-Light Vision"}]
+[
+	{
+		"name": "Dwarf",
+		"hp": "10",
+		"size": "Medium",
+		"speed": "20 feet",
+		"ability_boost": "Constitution, Wisdom, Free",
+		"ability_flaw": "Charisma",
+		"language": "Common, Dwarven",
+		"vision": "Darkvision"
+	},
+	{
+		"name": "Elf",
+		"hp": "6",
+		"size": "Medium",
+		"speed": "30 feet",
+		"ability_boost": "Dexterity, Intelligence, Free",
+		"ability_flaw": "Constitution",
+		"language": "Common, Elven",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Gnome",
+		"hp": "8",
+		"size": "Small",
+		"speed": "25 feet",
+		"ability_boost": "Constitution, Charisma, Free",
+		"ability_flaw": "Strength",
+		"language": "Common, Fey, Gnomish",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Goblin",
+		"hp": "6",
+		"size": "Small",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Charisma, Free",
+		"ability_flaw": "Wisdom",
+		"language": "Common, Goblin",
+		"vision": "Darkvision"
+	},
+	{
+		"name": "Halfling",
+		"hp": "6",
+		"size": "Small",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Wisdom, Free",
+		"ability_flaw": "Strength",
+		"language": "Common, Halfling",
+		"vision": ""
+	},
+	{
+		"name": "Human",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Free, Free",
+		"ability_flaw": "",
+		"language": "Common",
+		"vision": ""
+	},
+	{
+		"name": "Leshy",
+		"hp": "8",
+		"size": "Small",
+		"speed": "25 feet",
+		"ability_boost": "Constitution, Wisdom, Free",
+		"ability_flaw": "Intelligence",
+		"language": "Common, Fey",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Orc",
+		"hp": "10",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Free, Free",
+		"ability_flaw": "",
+		"language": "Common, Orcish",
+		"vision": "Darkvision"
+	},
+	{
+		"name": "Azarketi",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "20 feet",
+		"ability_boost": "Constitution, Charisma, Free",
+		"ability_flaw": "Wisdom",
+		"language": "Alghollthu, Common",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Catfolk",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Charisma, Free",
+		"ability_flaw": "Wisdom",
+		"language": "Amurrun, Common",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Fetchling",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Free",
+		"ability_flaw": "",
+		"language": "Common, Shadowtongue",
+		"vision": "Darkvision"
+	},
+	{
+		"name": "Gnoll",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Strength, Intelligence, Free",
+		"ability_flaw": "Wisdom",
+		"language": "Common, Gnoll",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Grippli",
+		"hp": "6",
+		"size": "Small",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Wisdom, Free",
+		"ability_flaw": "Strength",
+		"language": "Common, Grippli",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Hobgoblin",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Constitution, Intelligence, Free",
+		"ability_flaw": "Wisdom",
+		"language": "Common, Goblin",
+		"vision": "Darkvision"
+	},
+	{
+		"name": "Kitsune",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Charisma, Free",
+		"ability_flaw": "",
+		"language": "Common",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Kobold",
+		"hp": "6",
+		"size": "Small",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Charisma, Free",
+		"ability_flaw": "Constitution",
+		"language": "Common, Draconic",
+		"vision": "Darkvision"
+	},
+	{
+		"name": "Lizardfolk",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Strength, Wisdom, Free",
+		"ability_flaw": "Intelligence",
+		"language": "Common, Iruxi",
+		"vision": ""
+	},
+	{
+		"name": "Nagaji",
+		"hp": "10",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Strength, Free",
+		"ability_flaw": "",
+		"language": "Common, Nagaji",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Ratfolk",
+		"hp": "6",
+		"size": "Small",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Intelligence, Free",
+		"ability_flaw": "Strength",
+		"language": "Common, Ysoki",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Tengu",
+		"hp": "6",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Free",
+		"ability_flaw": "",
+		"language": "Common, Tengu",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Vanara",
+		"hp": "6",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Free",
+		"ability_flaw": "",
+		"language": "Common, Vanara",
+		"vision": ""
+	},
+	{
+		"name": "Anadi",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Wisdom, Free",
+		"ability_flaw": "Constitution",
+		"language": "Anadi, Mwangi",
+		"vision": ""
+	},
+	{
+		"name": "Android",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Intelligence, Free",
+		"ability_flaw": "Charisma",
+		"language": "Androffan, Common",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Automaton",
+		"hp": "8",
+		"size": "Medium, Small",
+		"speed": "25 feet",
+		"ability_boost": "Strength, Free",
+		"ability_flaw": "",
+		"language": "Common, Utopian",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Conrasu",
+		"hp": "10",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Constitution, Wisdom, Free",
+		"ability_flaw": "Charisma",
+		"language": "Mwangi, Rasu",
+		"vision": ""
+	},
+	{
+		"name": "Fleshwarp",
+		"hp": "10",
+		"size": "Medium, Small",
+		"speed": "25 feet",
+		"ability_boost": "Constitution, Free",
+		"ability_flaw": "",
+		"language": "Common",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Ghoran",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Constitution, Free",
+		"ability_flaw": "",
+		"language": "Common, Sylvan",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Goloma",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "30 feet",
+		"ability_boost": "Wisdom, Free",
+		"ability_flaw": "",
+		"language": "Goloma, Mwangi",
+		"vision": ""
+	},
+	{
+		"name": "Kashrishi",
+		"hp": "8",
+		"size": "Small",
+		"speed": "25 feet",
+		"ability_boost": "Constitution, Free",
+		"ability_flaw": "",
+		"language": "Common, Kashrishi",
+		"vision": ""
+	},
+	{
+		"name": "Poppet",
+		"hp": "6",
+		"size": "Small",
+		"speed": "25 feet",
+		"ability_boost": "Constitution, Charisma, Free",
+		"ability_flaw": "Dexterity",
+		"language": "Common",
+		"vision": "Darkvision"
+	},
+	{
+		"name": "Shisk",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Intelligence, Free",
+		"ability_flaw": "",
+		"language": "Mwangi, Shisk",
+		"vision": "Darkvision"
+	},
+	{
+		"name": "Shoony",
+		"hp": "6",
+		"size": "Small",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Charisma, Free",
+		"ability_flaw": "Constitution",
+		"language": "Common, Shoony",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Skeleton",
+		"hp": "6",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Charisma, Free",
+		"ability_flaw": "Intelligence",
+		"language": "Common, Necril",
+		"vision": ""
+	},
+	{
+		"name": "Sprite",
+		"hp": "6",
+		"size": "Tiny",
+		"speed": "20 feet",
+		"ability_boost": "Dexterity, Intelligence, Free",
+		"ability_flaw": "Strength",
+		"language": "Common, Sylvan",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Strix",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Free",
+		"ability_flaw": "",
+		"language": "Common, Strix",
+		"vision": "Low-Light Vision"
+	},
+	{
+		"name": "Vishkanya",
+		"hp": "8",
+		"size": "Medium",
+		"speed": "25 feet",
+		"ability_boost": "Dexterity, Free",
+		"ability_flaw": "",
+		"language": "Common, Vishkanya",
+		"vision": "Low-Light Vision"
+	}
+]

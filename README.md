@@ -7,3 +7,4 @@ Going to make it in Java first to see how it works since I'm familiar with it an
 
 Data Cleaning:
 For all spells, remove added title to numbers, like 1st to 1 and 2nd to 2
+For spellcaster classes, fix traditions they have

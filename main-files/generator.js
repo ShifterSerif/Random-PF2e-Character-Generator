@@ -343,7 +343,7 @@ function getRandomSpell(tradition, rank, spell_type){
     let applicableSpells = [];
     
     for (let i = 0; i < spells.length; i++) {
-        if (spells[i].tradition.includes(tradition) && spells[i].rank == rank) {
+        if (spells[i].tradition.includes(tradition) && spells[i].rank == rank && spells[i].rarity == "Common") {
             applicableSpells.push(spells[i].name);
         }
     }

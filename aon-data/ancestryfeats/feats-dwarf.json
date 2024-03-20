@@ -1,1 +1,458 @@
-[{"name":"Adaptive Vision","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"1","prerequisite":"","summary":"After years of using black powder weaponry in dimly lit spaces, you've become accustomed to dazzling flashes of light and sudden shifts in illumination."},{"name":"Avenge in Glory","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"1","prerequisite":"","summary":"You honor your ally’s life, gaining temporary Hit Points equal to your level for 1 minute."},{"name":"Clan Lore","rarity":"Common","trait":"Dwarf","level":"1","prerequisite":"","summary":"Your identity as a member of your clan is as central to your sense of self as your dwarven ancestry."},{"name":"Clan Pistol","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"1","prerequisite":"","summary":"Raised in the ancient halls of Dongun Hold or the surrounding region, you display your lineage with a clan pistol, rather than a clan dagger."},{"name":"Clan's Edge","rarity":"Common","trait":"Dwarf","level":"1","prerequisite":"trained in clan daggers","summary":"By moving your clan dagger with rapid precision, you can protect yourself more effectively."},{"name":"Dongun Education","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"1","prerequisite":"","summary":"You're knowledgeable in trades that are important to your people's survival and commercial interests."},{"name":"Dwarven Doughtiness","rarity":"Common","trait":"Dwarf","level":"1","prerequisite":"","summary":"You are naturally calm and collected in the face of imminent danger."},{"name":"Dwarven Lore","rarity":"Common","trait":"Dwarf","level":"1","prerequisite":"","summary":"You eagerly absorbed the old stories and traditions of your ancestors, your gods, and your people."},{"name":"Dwarven Weapon Familiarity","rarity":"Common","trait":"Dwarf","level":"1","prerequisite":"","summary":"Your kin have instilled in you an affinity for hard-hitting weapons, and you prefer these to more elegant arms."},{"name":"Explosive Savant","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"1","prerequisite":"","summary":"A lifetime wielding firearms and explosive ordinance amid the chaos of battle has granted you great skill with volatile weapons."},{"name":"Eye for Treasure","rarity":"Common","trait":"Dwarf","level":"1","prerequisite":"","summary":"You know good artisanship when you see it and can wax poetic about crafting techniques and forms."},{"name":"Fire Savvy","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"1","prerequisite":"","summary":"You've grown up around a forge and are well-suited to dealing with smoke and flame."},{"name":"Forge-Day's Rest","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"1","prerequisite":"","summary":"Your unusual rest cycle allows you to recover faster."},{"name":"Mountain Strategy","rarity":"Common","trait":"Dwarf","level":"1","prerequisite":"","summary":"Dwarves have a long history fighting common foes, and you've mastered the ancient tactics to better face these enemies."},{"name":"Rivethun Disciple","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"1","prerequisite":"","summary":"By studying with the dwarven shamans of Highhelm, you have become aware of the friction between your body and spirit."},{"name":"Rock Runner","rarity":"Common","trait":"Dwarf","level":"1","prerequisite":"","summary":"Your innate connection to stone makes you adept at moving across uneven surfaces."},{"name":"Stonemason's Eye","rarity":"Common","trait":"Dwarf","level":"1","prerequisite":"","summary":"You understand the intricacies of stonework."},{"name":"Surface Culture","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"1","prerequisite":"","summary":"Your interactions with other cultures on the surface have not only taught you about many other ancestries, but have also helped you realize the value of your own."},{"name":"Unburdened Iron","rarity":"Common","trait":"Dwarf","level":"1","prerequisite":"","summary":"You've learned techniques first devised by your ancestors during their ancient wars, allowing you to comfortably wear massive suits of armor."},{"name":"Blast Resistance","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"5","prerequisite":"","summary":"You're used to the clamor of steel, the crack of a firearm, and the thunderous blast of explosions."},{"name":"Boulder Roll","rarity":"Common","trait":"Dwarf","level":"5","prerequisite":"Rock Runner","summary":"Your dwarven build allows you to push foes around, just like a mighty boulder tumbles through a subterranean cavern."},{"name":"Clan Protector","rarity":"Common","trait":"Dwarf","level":"5","prerequisite":"","summary":"Your clan dagger can protect your allies as easily as yourself."},{"name":"Defy the Darkness","rarity":"Common","trait":"Dwarf","level":"5","prerequisite":"darkvision","summary":"Using ancient dwarven methods developed to fight enemies wielding magical darkness, you've honed your darkvision and sworn not to use such magic yourself."},{"name":"Dwarven Reinforcement","rarity":"Common","trait":"Dwarf","level":"5","prerequisite":"Expert in Crafting","summary":"You can use your knowledge of engineering and metalwork to temporarily strengthen thick objects and structures."},{"name":"Dwarven Weapon Cunning","rarity":"Common","trait":"Dwarf","level":"5","prerequisite":"Dwarven Weapon Familiarity","summary":"You’ve learned cunning techniques to get the best effects out of your dwarven weapons."},{"name":"Fey Influence","rarity":"Rare","trait":"All Ancestries, Rare","level":"5","prerequisite":"","summary":"Your exposure to fey influence has given you some primal magic"},{"name":"Protective Sheath","rarity":"Common","trait":"Dwarf","level":"5","prerequisite":"Clan's Edge","summary":"When you lash out with your clan dagger, you keep its sheath close at hand."},{"name":"Sheltering Slab","rarity":"Common","trait":"Dwarf","level":"5","prerequisite":"","summary":"The stone around you is your ally, and you have learned to use it to shore up your weaknesses."},{"name":"Spark Fist","rarity":"Uncommon","trait":"Dwarf, Fire, Manipulate, Uncommon","level":"5","prerequisite":"Expert in Crafting","summary":"You dust explosive black powder on your fist or glove before attacking, which combusts as you hit an opponent."},{"name":"Tomb-Watcher's Glare","rarity":"Common","trait":"Divine, Dwarf","level":"5","prerequisite":"Death Warden Dwarf heritage","summary":"When you critically hit an undead creature, or an undead creature critically fails a saving throw against one of your abilities, you drive your divine wrath home in your enemy’s heart."},{"name":"Battleforger","rarity":"Common","trait":"Dwarf","level":"9","prerequisite":"Master in Crafting","summary":"You can sharpen weapons, polish armor, and apply special techniques to temporarily gain better effects from your armaments."},{"name":"Demolitionist","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"9","prerequisite":"","summary":"You know how to destroy objects with a well-placed explosion."},{"name":"Drain Emotion","rarity":"Rare","trait":"All Ancestries, Enchantment, Mental, Rare","level":"9","prerequisite":"Fey Influence","summary":"You touch an adjacent creature and attempt to draw out its excess emotion."},{"name":"Echoes in Stone","rarity":"Common","trait":"Concentrate, Dwarf","level":"9","prerequisite":"","summary":"You pause a moment to attune your senses to the stone around you."},{"name":"Energy Blessed","rarity":"Common","trait":"Dwarf","level":"9","prerequisite":"Elemental Heart Dwarf heritage","summary":"Energy runs through your blood more powerfully."},{"name":"Fey Ascension","rarity":"Rare","trait":"All Ancestries, Rare","level":"9","prerequisite":"Fey Influence","summary":"The fey influence on your form and features grows even more powerful and notable."},{"name":"Heroes' Call","rarity":"Common","trait":"Dwarf","level":"9","prerequisite":"","summary":"The songs of ancient heroes echo through your mind and quicken your pulse, especially in dire straits."},{"name":"Kneel for No God","rarity":"Common","trait":"Dwarf","level":"9","prerequisite":"Ancient-Blooded Dwarf heritage","summary":"Your ancestors’ defiance of magic and your people’s strictly egalitarian mindset mean that certain forms of magic have little effect on you."},{"name":"Mountain's Stoutness","rarity":"Common","trait":"Dwarf","level":"9","prerequisite":"","summary":"Your hardiness lets you withstand more punishment than most."},{"name":"Returning Throw","rarity":"Common","trait":"Dwarf","level":"9","prerequisite":"","summary":"You have mastered the technique of arcing a projectile so that it returns to your hand after being thrown, though this requires a moment to precisely calculate the trajectory and possible ricochets."},{"name":"Rivethun Spiritual Attunement","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"9","prerequisite":"","summary":"Your time spent among the Rivethun has heightened your awareness of animate spirits around you, giving you the ability to sense them briefly."},{"name":"Smoke Sight","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"9","prerequisite":"","summary":"You're used to fighting and hiding in a haze of smoke and flame."},{"name":"Stone Bones","rarity":"Common","trait":"Dwarf","level":"9","prerequisite":"","summary":"Your intractable nature can help you shrug off even the most grievous injuries."},{"name":"Stonewalker","rarity":"Common","trait":"Dwarf","level":"9","prerequisite":"","summary":"You have a deep reverence for and connection to stone."},{"name":"Cannibalize Magic","rarity":"Rare","trait":"All Ancestries, Rare","level":"13","prerequisite":"Fey Influence","summary":"The fey magic inside of you is a vital part of your body, and you can steal other sources of magic to replenish yours."},{"name":"Crafter's Instinct","rarity":"Uncommon","trait":"Dwarf, Fortune, Uncommon","level":"13","prerequisite":"Master in Crafting","summary":"You sense a minor flaw in the weapon as you fire it, and quickly adjust your aim on the fly to avoid the flaw."},{"name":"Dwarven Weapon Expertise","rarity":"Common","trait":"Dwarf","level":"13","prerequisite":"Dwarven Weapon Familiarity","summary":"Your dwarven affinity blends with your training, granting you great skill with dwarven weapons."},{"name":"Eldritch Calm","rarity":"Rare","trait":"All Ancestries, Rare","level":"13","prerequisite":"Fey Influence","summary":"Your fey heritage has altered your mindset to more resemble the uncanny perspective of the fey."},{"name":"Explosive Expert","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"13","prerequisite":"Explosive Savant","summary":"You have continued training in volatile weapons and gained a deeper understanding."},{"name":"Glamour","rarity":"Rare","trait":"All Ancestries, Rare","level":"13","prerequisite":"Fey Influence","summary":"You unlock a new level of fey power and can manipulate the perceptions of others using a font of First World magic."},{"name":"March the Mines","rarity":"Common","trait":"Dwarf","level":"13","prerequisite":"","summary":"You march through the earth and lead an ally along."},{"name":"Scrutinizing Gaze","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"13","prerequisite":"","summary":"Your family's traditions of defending against Geb's undead have granted you a sixth sense for detecting spirits, haunts, and other restless dead, no matter their form or the strength of their presence."},{"name":"Telluric Power","rarity":"Common","trait":"Dwarf","level":"13","prerequisite":"","summary":"You channel strength from the earth beneath your feet to pummel your enemies."},{"name":"Fey Transcendence","rarity":"Rare","trait":"All Ancestries, Rare","level":"17","prerequisite":"Fey Influence","summary":"You become a powerful fey creature, gaining strengths tied to the First World but also some of the weakness against which all fey must contend."},{"name":"Forge-Blessed Shot","rarity":"Uncommon","trait":"Divine, Dwarf, Uncommon","level":"17","prerequisite":"worshipper of Torag or Angradd","summary":"You intone a prayer to the dwarven deities Torag or Angradd, willing a higher power to guide your aim in the heat of battle."},{"name":"Stonegate","rarity":"Uncommon","trait":"Dwarf, Uncommon","level":"17","prerequisite":"Stonewalker","summary":"Earthen barriers no longer impede your progress."},{"name":"Stonewall","rarity":"Common","trait":"Dwarf, Earth, Polymorph","level":"17","prerequisite":"","summary":"The strength of stone overcomes you so strongly that it replaces your stout body."}]
+[
+	{
+		"name": "Adaptive Vision",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "After years of using black powder weaponry in dimly lit spaces, you've become accustomed to dazzling flashes of light and sudden shifts in illumination."
+	},
+	{
+		"name": "Avenge in Glory",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "You honor your ally’s life, gaining temporary Hit Points equal to your level for 1 minute."
+	},
+	{
+		"name": "Clan Lore",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Your identity as a member of your clan is as central to your sense of self as your dwarven ancestry."
+	},
+	{
+		"name": "Clan Pistol",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Raised in the ancient halls of Dongun Hold or the surrounding region, you display your lineage with a clan pistol, rather than a clan dagger."
+	},
+	{
+		"name": "Clan's Edge",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "1",
+		"prerequisite": "trained in clan daggers",
+		"summary": "By moving your clan dagger with rapid precision, you can protect yourself more effectively."
+	},
+	{
+		"name": "Dongun Education",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "You're knowledgeable in trades that are important to your people's survival and commercial interests."
+	},
+	{
+		"name": "Dwarven Doughtiness",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "You are naturally calm and collected in the face of imminent danger."
+	},
+	{
+		"name": "Dwarven Lore",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "You eagerly absorbed the old stories and traditions of your ancestors, your gods, and your people."
+	},
+	{
+		"name": "Dwarven Weapon Familiarity",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Your kin have instilled in you an affinity for hard-hitting weapons, and you prefer these to more elegant arms."
+	},
+	{
+		"name": "Explosive Savant",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "A lifetime wielding firearms and explosive ordinance amid the chaos of battle has granted you great skill with volatile weapons."
+	},
+	{
+		"name": "Eye for Treasure",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "You know good artisanship when you see it and can wax poetic about crafting techniques and forms."
+	},
+	{
+		"name": "Fire Savvy",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "You've grown up around a forge and are well-suited to dealing with smoke and flame."
+	},
+	{
+		"name": "Forge-Day's Rest",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Your unusual rest cycle allows you to recover faster."
+	},
+	{
+		"name": "Mountain Strategy",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Dwarves have a long history fighting common foes, and you've mastered the ancient tactics to better face these enemies."
+	},
+	{
+		"name": "Rivethun Disciple",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "By studying with the dwarven shamans of Highhelm, you have become aware of the friction between your body and spirit."
+	},
+	{
+		"name": "Rock Runner",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Your innate connection to stone makes you adept at moving across uneven surfaces."
+	},
+	{
+		"name": "Stonemason's Eye",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "You understand the intricacies of stonework."
+	},
+	{
+		"name": "Surface Culture",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "Your interactions with other cultures on the surface have not only taught you about many other ancestries, but have also helped you realize the value of your own."
+	},
+	{
+		"name": "Unburdened Iron",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "1",
+		"prerequisite": "",
+		"summary": "You've learned techniques first devised by your ancestors during their ancient wars, allowing you to comfortably wear massive suits of armor."
+	},
+	{
+		"name": "Blast Resistance",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "5",
+		"prerequisite": "",
+		"summary": "You're used to the clamor of steel, the crack of a firearm, and the thunderous blast of explosions."
+	},
+	{
+		"name": "Boulder Roll",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "5",
+		"prerequisite": "Rock Runner",
+		"summary": "Your dwarven build allows you to push foes around, just like a mighty boulder tumbles through a subterranean cavern."
+	},
+	{
+		"name": "Clan Protector",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "5",
+		"prerequisite": "",
+		"summary": "Your clan dagger can protect your allies as easily as yourself."
+	},
+	{
+		"name": "Defy the Darkness",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "5",
+		"prerequisite": "darkvision",
+		"summary": "Using ancient dwarven methods developed to fight enemies wielding magical darkness, you've honed your darkvision and sworn not to use such magic yourself."
+	},
+	{
+		"name": "Dwarven Reinforcement",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "5",
+		"prerequisite": "Expert in Crafting",
+		"summary": "You can use your knowledge of engineering and metalwork to temporarily strengthen thick objects and structures."
+	},
+	{
+		"name": "Dwarven Weapon Cunning",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "5",
+		"prerequisite": "Dwarven Weapon Familiarity",
+		"summary": "You’ve learned cunning techniques to get the best effects out of your dwarven weapons."
+	},
+	{
+		"name": "Fey Influence",
+		"rarity": "Rare",
+		"trait": "All Ancestries, Rare",
+		"level": "5",
+		"prerequisite": "",
+		"summary": "Your exposure to fey influence has given you some primal magic"
+	},
+	{
+		"name": "Protective Sheath",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "5",
+		"prerequisite": "Clan's Edge",
+		"summary": "When you lash out with your clan dagger, you keep its sheath close at hand."
+	},
+	{
+		"name": "Sheltering Slab",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "5",
+		"prerequisite": "",
+		"summary": "The stone around you is your ally, and you have learned to use it to shore up your weaknesses."
+	},
+	{
+		"name": "Spark Fist",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Fire, Manipulate, Uncommon",
+		"level": "5",
+		"prerequisite": "Expert in Crafting",
+		"summary": "You dust explosive black powder on your fist or glove before attacking, which combusts as you hit an opponent."
+	},
+	{
+		"name": "Tomb-Watcher's Glare",
+		"rarity": "Common",
+		"trait": "Divine, Dwarf",
+		"level": "5",
+		"prerequisite": "Death Warden Dwarf heritage",
+		"summary": "When you critically hit an undead creature, or an undead creature critically fails a saving throw against one of your abilities, you drive your divine wrath home in your enemy’s heart."
+	},
+	{
+		"name": "Battleforger",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "9",
+		"prerequisite": "Master in Crafting",
+		"summary": "You can sharpen weapons, polish armor, and apply special techniques to temporarily gain better effects from your armaments."
+	},
+	{
+		"name": "Demolitionist",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "9",
+		"prerequisite": "",
+		"summary": "You know how to destroy objects with a well-placed explosion."
+	},
+	{
+		"name": "Drain Emotion",
+		"rarity": "Rare",
+		"trait": "All Ancestries, Enchantment, Mental, Rare",
+		"level": "9",
+		"prerequisite": "Fey Influence",
+		"summary": "You touch an adjacent creature and attempt to draw out its excess emotion."
+	},
+	{
+		"name": "Echoes in Stone",
+		"rarity": "Common",
+		"trait": "Concentrate, Dwarf",
+		"level": "9",
+		"prerequisite": "",
+		"summary": "You pause a moment to attune your senses to the stone around you."
+	},
+	{
+		"name": "Energy Blessed",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "9",
+		"prerequisite": "Elemental Heart Dwarf heritage",
+		"summary": "Energy runs through your blood more powerfully."
+	},
+	{
+		"name": "Fey Ascension",
+		"rarity": "Rare",
+		"trait": "All Ancestries, Rare",
+		"level": "9",
+		"prerequisite": "Fey Influence",
+		"summary": "The fey influence on your form and features grows even more powerful and notable."
+	},
+	{
+		"name": "Heroes' Call",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "9",
+		"prerequisite": "",
+		"summary": "The songs of ancient heroes echo through your mind and quicken your pulse, especially in dire straits."
+	},
+	{
+		"name": "Kneel for No God",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "9",
+		"prerequisite": "Ancient-Blooded Dwarf heritage",
+		"summary": "Your ancestors’ defiance of magic and your people’s strictly egalitarian mindset mean that certain forms of magic have little effect on you."
+	},
+	{
+		"name": "Mountain's Stoutness",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "9",
+		"prerequisite": "",
+		"summary": "Your hardiness lets you withstand more punishment than most."
+	},
+	{
+		"name": "Returning Throw",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "9",
+		"prerequisite": "",
+		"summary": "You have mastered the technique of arcing a projectile so that it returns to your hand after being thrown, though this requires a moment to precisely calculate the trajectory and possible ricochets."
+	},
+	{
+		"name": "Rivethun Spiritual Attunement",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "9",
+		"prerequisite": "",
+		"summary": "Your time spent among the Rivethun has heightened your awareness of animate spirits around you, giving you the ability to sense them briefly."
+	},
+	{
+		"name": "Smoke Sight",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "9",
+		"prerequisite": "",
+		"summary": "You're used to fighting and hiding in a haze of smoke and flame."
+	},
+	{
+		"name": "Stone Bones",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "9",
+		"prerequisite": "",
+		"summary": "Your intractable nature can help you shrug off even the most grievous injuries."
+	},
+	{
+		"name": "Stonewalker",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "9",
+		"prerequisite": "",
+		"summary": "You have a deep reverence for and connection to stone."
+	},
+	{
+		"name": "Cannibalize Magic",
+		"rarity": "Rare",
+		"trait": "All Ancestries, Rare",
+		"level": "13",
+		"prerequisite": "Fey Influence",
+		"summary": "The fey magic inside of you is a vital part of your body, and you can steal other sources of magic to replenish yours."
+	},
+	{
+		"name": "Crafter's Instinct",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Fortune, Uncommon",
+		"level": "13",
+		"prerequisite": "Master in Crafting",
+		"summary": "You sense a minor flaw in the weapon as you fire it, and quickly adjust your aim on the fly to avoid the flaw."
+	},
+	{
+		"name": "Dwarven Weapon Expertise",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "13",
+		"prerequisite": "Dwarven Weapon Familiarity",
+		"summary": "Your dwarven affinity blends with your training, granting you great skill with dwarven weapons."
+	},
+	{
+		"name": "Eldritch Calm",
+		"rarity": "Rare",
+		"trait": "All Ancestries, Rare",
+		"level": "13",
+		"prerequisite": "Fey Influence",
+		"summary": "Your fey heritage has altered your mindset to more resemble the uncanny perspective of the fey."
+	},
+	{
+		"name": "Explosive Expert",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "13",
+		"prerequisite": "Explosive Savant",
+		"summary": "You have continued training in volatile weapons and gained a deeper understanding."
+	},
+	{
+		"name": "Glamour",
+		"rarity": "Rare",
+		"trait": "All Ancestries, Rare",
+		"level": "13",
+		"prerequisite": "Fey Influence",
+		"summary": "You unlock a new level of fey power and can manipulate the perceptions of others using a font of First World magic."
+	},
+	{
+		"name": "March the Mines",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "13",
+		"prerequisite": "",
+		"summary": "You march through the earth and lead an ally along."
+	},
+	{
+		"name": "Scrutinizing Gaze",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "13",
+		"prerequisite": "",
+		"summary": "Your family's traditions of defending against Geb's undead have granted you a sixth sense for detecting spirits, haunts, and other restless dead, no matter their form or the strength of their presence."
+	},
+	{
+		"name": "Telluric Power",
+		"rarity": "Common",
+		"trait": "Dwarf",
+		"level": "13",
+		"prerequisite": "",
+		"summary": "You channel strength from the earth beneath your feet to pummel your enemies."
+	},
+	{
+		"name": "Fey Transcendence",
+		"rarity": "Rare",
+		"trait": "All Ancestries, Rare",
+		"level": "17",
+		"prerequisite": "Fey Influence",
+		"summary": "You become a powerful fey creature, gaining strengths tied to the First World but also some of the weakness against which all fey must contend."
+	},
+	{
+		"name": "Forge-Blessed Shot",
+		"rarity": "Uncommon",
+		"trait": "Divine, Dwarf, Uncommon",
+		"level": "17",
+		"prerequisite": "worshipper of Torag or Angradd",
+		"summary": "You intone a prayer to the dwarven deities Torag or Angradd, willing a higher power to guide your aim in the heat of battle."
+	},
+	{
+		"name": "Stonegate",
+		"rarity": "Uncommon",
+		"trait": "Dwarf, Uncommon",
+		"level": "17",
+		"prerequisite": "Stonewalker",
+		"summary": "Earthen barriers no longer impede your progress."
+	},
+	{
+		"name": "Stonewall",
+		"rarity": "Common",
+		"trait": "Dwarf, Earth, Polymorph",
+		"level": "17",
+		"prerequisite": "",
+		"summary": "The strength of stone overcomes you so strongly that it replaces your stout body."
+	}
+]
