@@ -4,9 +4,8 @@ let charLevel = 1;
 let spellcaster = false;
 let stats = [0, 0, 0, 0, 0, 0];
 let statNames = ["Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma"];
-let skills = ["Acrobatics", "Arcana", "Athletics", "Crafting", "Deception", "Diplomacy", "Intimidation", "Medicine", "Nature", "Occultism", "Performance", "Religion", "Society", "Stealth", "Survival", "Thievery", "Perception"];
-let profs = new Array(17);
-let saves = new Array(6);
+let skills = [["Acrobatics", "untrained"], ["Arcana", "untrained"], ["Athletics", "untrained"], ["Crafting", "untrained"], ["Deception", "untrained"], ["Diplomacy", "untrained"], ["Intimidation", "untrained"], ["Medicine", "untrained"], ["Nature", "untrained"], ["Occultism", "untrained"], ["Performance", "untrained"], ["Religion", "untrained"], ["Society", "untrained"], ["Stealth", "untrained"], ["Survival", "untrained"], ["Thievery", "untrained"], ["Perception", "untrained"]];
+let saves = [["Fortitude", "untrained"], ["Reflex", "untrained"], ["Will", "untrained"]];
 let spells = [];
 let genFeatAmount = 0;
 let skillFeatAmount = 0;
@@ -16,6 +15,9 @@ let ancestry;
 let background;
 let charClass;
 let keyAbility = "";
+let languages = [];
+let weaponProficiencies = [["Unarmed", "untrained"], ["Simple", "untrained"], ["Martial", "untrained"], ["Advanced", "untrained"]];
+let armorProficiencies = [["Unarmored", "untrained"], ["Light", "untrained"], ["Medium", "untrained"], ["Heavy", "untrained"]];
 
 genFeatAmount = 0;
 skillFeatAmount = 0;
@@ -26,15 +28,27 @@ ancestryFeats = getAncestryFeats();
 classFeats = getClassFeats();
 generalFeats = getGeneralFeats();
 skillFeats = getSkillFeats();
-gender = getGender();
+if (spellcaster) {getSpells();}
+getGender();
 useFreeBoosts();
+getSkills();
+getSaves();
+useFreeIntPoints();
 hp += stats[2] * charLevel;
+
+getRandomSpell("Primal", 1, "Cantrip");
+
 console.log("Level: " + charLevel);
 console.log("Ancestry: " + ancestry);
 console.log("Background: " + background);
 console.log("Class: " + charClass);
 console.log("Key Ability: " + keyAbility);
 console.log("Stats: STR " + stats[0] + " DEX " + stats[1] + " CON " + stats[2] + " INT " + stats[3] + " WIS " + stats[4] + " CHA " + stats[5]);
+// console.log("Skills: " + skills);
+// console.log("Saves: " + saves);
+// console.log("Languages: " + languages);
+console.log("Weapon Proficiencies: " + weaponProficiencies);
+console.log("Armor Proficiencies: " + armorProficiencies);
 console.log("HP: " + hp);
 console.log("Ancestry Feats: " + ancestryFeats);
 console.log("Class Feats: " + classFeats);
@@ -45,21 +59,23 @@ console.log("Your gender is: " + gender);
 
 
 function getGender() {
-    let gender = ["Male", "Female", "Non-Binary"];
-    return gender[Math.floor(Math.random() * gender.length)];
+    let genderOptions = ["Male", "Female", "Non-Binary"];
+    gender = genderOptions[Math.floor(Math.random() * genderOptions.length)];
 }
 
 function getAncestry() {
     const fileData = fs.readFileSync('aon-data/ancestries.json', 'utf8');
     const ancestries = JSON.parse(fileData);
-    // const randomIndex = Math.floor(Math.random() * ancestries.length);
-    const randomIndex = 0;
+    const randomIndex = Math.floor(Math.random() * ancestries.length);
     const randomAncestry = ancestries[randomIndex].name;
     
     //HP
     hp += parseInt(ancestries[randomIndex].hp);
     
-    //Ability Boosts
+    //Languages
+    languages = ancestries[randomIndex].language.split(", ");
+
+    //Ability Boosts, incorporate alternate ability boosts in the future
     let ancestryAbilityChoices = ancestries[randomIndex].ability_boost.split(", ");
     let increasedKeyAbility = false;
     statNames = ["Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma"];
@@ -87,33 +103,32 @@ function getAncestry() {
     }
     
     //Ability Flaw
-    let flaw = ancestries[randomIndex].ability_flaw;
-    switch (flaw) {
-        case "Strength":
-            stats[0] -= 1;
-            break;
-        case "Dexterity":
-            stats[1] -= 1;
-            break;
-        case "Constitution":
-            stats[2] -= 1;
-            break;
-        case "Intelligence":
-            stats[3] -= 1;
-            break;
-        case "Wisdom":
-            stats[4] -= 1;
-            break;
-        case "Charisma":
-            stats[5] -= 1;
-            break;
-        default:
-            console.log("Error: Flaw not found");
-            break;
+    if (ancestries[randomIndex].ability_flaw != "") {
+        let flaw = ancestries[randomIndex].ability_flaw;
+        switch (flaw) {
+            case "Strength":
+                stats[0] -= 1;
+                break;
+            case "Dexterity":
+                stats[1] -= 1;
+                break;
+            case "Constitution":
+                stats[2] -= 1;
+                break;
+            case "Intelligence":
+                stats[3] -= 1;
+                break;
+            case "Wisdom":
+                stats[4] -= 1;
+                break;
+            case "Charisma":
+                stats[5] -= 1;
+                break;
+            default:
+                console.log("Error: Flaw not found");
+                break;
+        }
     }
-    
-    
-    
     
     return randomAncestry;
 }
@@ -122,21 +137,49 @@ function getCharacterClass() {
     let keyAbilityChoices = [];
     const fileData = fs.readFileSync('aon-data/classes.json', 'utf8');
     const classes = JSON.parse(fileData);
-    const randomIndex = Math.floor(Math.random() * classes.length);
+    // const randomIndex = Math.floor(Math.random() * classes.length);
+    const randomIndex = 22; // for testing purposes
     const randomClassName = classes[randomIndex].name;
     
+    //Check if spellcaster
     if (classes[randomIndex].tradition != "") { spellcaster = true; }
     
+    //HP
     hp += parseInt(classes[randomIndex].hp);
     
+    
+    //Key Ability
     if (classes[randomIndex].ability.includes(", ")) {
         keyAbilityChoices = classes[randomIndex].ability.split(", ");
         keyAbility = keyAbilityChoices[Math.floor(Math.random() * keyAbilityChoices.length)];
     } else { keyAbility = classes[randomIndex].ability; }
     increaseAbility(keyAbility); //increase from class
     
+    //Saves
+    saves[0][1] = classes[randomIndex].fortitude_proficiency;
+    saves[1][1] = classes[randomIndex].reflex_proficiency;
+    saves[2][1] = classes[randomIndex].will_proficiency;
+    
+    //Skills
+    skills[16][1] = classes[randomIndex].perception_proficiency
+    // "Trained in  Crafting\nTrained in a number of additional skills equal to 3 plus your Intelligence modifier";
+    // let skillChoices = classes[randomIndex].skill_proficiency.split("\\n");
+    // console.log(skillChoices);
+    
+    
     
     return randomClassName;
+}
+
+function getSkills() {
+    
+}
+
+function getSaves() {
+}
+
+function useFreeIntPoints() {
+    let skillBoostsRemaining, languagesRemaining = stats[3]; //make json file for languages from excel table
 }
 
 function getClassFeats() {
@@ -212,21 +255,55 @@ function getBackground() {
 function getGeneralFeats() {
     let tempCharLevel = charLevel;
     while (tempCharLevel >= 3) {
-        generalFeatAmount++;
+        genFeatAmount++;
         tempCharLevel -= 4;
     }
     
-    const fileData = fs.readFileSync('aon-data/feats-general.json', 'utf8');
+    const fileData = fs.readFileSync('aon-data/feats-general.json', 'utf8'); // does not include abnormal prerequisites
     const generalFeats = JSON.parse(fileData);
-    const randomIndex = Math.floor(Math.random() * generalFeats.length);
-    const randomName = generalFeats[randomIndex].name;
-    // for (let i = 0; i < generalFeats.length; i++) {
-    //     if (generalFeats[i].level == 7){
-    //         console.log(generalFeats[i].name)
-    //     }
-    // }
     
-    return randomName + " " + generalFeats[randomIndex].level;
+    
+    let genFeatsTaken = new Array(0);
+    
+    
+    //A better way might be to have a list of each level of feat and then go top down to see what can be taken with prerecs met
+    // this ensures that you always get a higher level feat if you meet the prerecs, but does not break the system if you dont meet them
+    
+    let genFeatsLevel1 = new Array(0);
+    let genFeatsLevel3 = new Array(0);
+    let genFeatsLevel7 = new Array(0);
+    let genFeatsLevel11 = new Array(0);
+    let genFeatsLevel19 = new Array(0);
+    for (let i = 0; i < generalFeats.length; i++) { 
+        if (generalFeats[i].level == 1){
+            genFeatsLevel1.push(generalFeats[i].name);
+        } else if (generalFeats[i].level == 3){
+            genFeatsLevel3.push(generalFeats[i].name);
+        } else if (generalFeats[i].level == 7){
+            genFeatsLevel7.push(generalFeats[i].name);
+        } else if (generalFeats[i].level == 11){
+            genFeatsLevel11.push(generalFeats[i].name);
+        } else if (generalFeats[i].level == 19){
+            genFeatsLevel19.push(generalFeats[i].name);
+        } else {
+            console.log("Error: General Feat level not found " + generalFeats[i].name + " " + generalFeats[i].level);
+        }
+    }
+    
+    
+    genFeatAmount = 0; // for testing purposes
+    
+    for (let i = 3; i <= (genFeatAmount*4)-1; i = i + 4){  // does not take into account prerequisites
+        // let genFeatChoices = new Array(0); //reset available feats
+        // for (let j = 0; j < generalFeats.length; j++) { //find available feats for the level range
+        //     if (generalFeats[j].level <= i && generalFeats[j].level > Math.min(i-4, 7)){
+        //         genFeatChoices.push(generalFeats[j].name);
+        //     }
+        // }
+        // let randomFeat = Math.floor(Math.random() * genFeatChoices.length);
+        // genFeatsTaken.push(genFeatChoices[randomFeat]);
+    }
+    return genFeatsTaken;
 }
 
 function getSkillFeats() {
@@ -253,4 +330,26 @@ function getAncestryFeats() {
         tempCharLevel -= 4;
     }
     return ancestryFeatAmount;
+}
+
+function getSpells() {
+    
+    
+}
+
+function getRandomSpell(tradition, rank, spell_type){
+    const fileData = fs.readFileSync('aon-data/spells/' + spell_type + '.json', 'utf8');
+    const spells = JSON.parse(fileData);
+    let applicableSpells = [];
+    
+    for (let i = 0; i < spells.length; i++) {
+        if (spells[i].tradition.includes(tradition) && spells[i].rank == rank) {
+            applicableSpells.push(spells[i].name);
+        }
+    }
+    
+    const randomIndex = Math.floor(Math.random() * applicableSpells.length);
+    const randomSpell = spells[randomIndex].name;
+    
+    return randomSpell;
 }
