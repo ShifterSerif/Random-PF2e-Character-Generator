@@ -6,8 +6,9 @@ let spellsTradition = "";
 let stats = [0, 0, 0, 0, 0, 0];
 let statNames = ["Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma"];
 let skills = [["Acrobatics", "untrained"], ["Arcana", "untrained"], ["Athletics", "untrained"], ["Crafting", "untrained"], ["Deception", "untrained"], ["Diplomacy", "untrained"], ["Intimidation", "untrained"], ["Medicine", "untrained"], ["Nature", "untrained"], ["Occultism", "untrained"], ["Performance", "untrained"], ["Religion", "untrained"], ["Society", "untrained"], ["Stealth", "untrained"], ["Survival", "untrained"], ["Thievery", "untrained"], ["Perception", "untrained"]];
+let skillNames = ["Acrobatics", "Arcana", "Athletics", "Crafting", "Deception", "Diplomacy", "Intimidation", "Medicine", "Nature", "Occultism", "Performance", "Religion", "Society", "Stealth", "Survival", "Thievery", "Perception"];
 let saves = [["Fortitude", "untrained"], ["Reflex", "untrained"], ["Will", "untrained"]];
-let spellListCantrips = [" Cantrips:"];
+let spellListCantrips = ["\n","  Cantrips:"];
 let spellListRank1 = ["\n","  Rank 1:"];
 let spellListRank2 = ["\n","  Rank 2:"];
 let spellListRank3 = ["\n","  Rank 3:"];
@@ -30,22 +31,25 @@ let keyAbility = "";
 let languages = [];
 let weaponProficiencies = [["Unarmed", "untrained"], ["Simple", "untrained"], ["Martial", "untrained"], ["Advanced", "untrained"]];
 let armorProficiencies = [["Unarmored", "untrained"], ["Light", "untrained"], ["Medium", "untrained"], ["Heavy", "untrained"]];
+let additionalSkills = 0;
+let skillFeats = new Array(0);
+let generalFeats = new Array(0);
+let ancestryFeats = new Array(0);
 
 genFeatAmount = 0;
 skillFeatAmount = 0;
 charClass = getCharacterClass();
 ancestry = getAncestry();
 background = getBackground();
-ancestryFeats = getAncestryFeats();
+getAncestryFeats();
 classFeats = getClassFeats();
-generalFeats = getGeneralFeats();
-skillFeats = getSkillFeats();
 if (spellcaster) {getSpells();}
 getGender();
 useFreeBoosts();
-getSkills();
 getSaves();
 useFreeIntPoints();
+getSkillFeats();
+getGeneralFeats();
 hp += stats[2] * charLevel;
 
 getRandomSpell("Primal", 1, "Cantrip");
@@ -56,7 +60,7 @@ console.log("Background: " + background);
 console.log("Class: " + charClass);
 console.log("Key Ability: " + keyAbility);
 console.log("Stats: STR " + stats[0] + " DEX " + stats[1] + " CON " + stats[2] + " INT " + stats[3] + " WIS " + stats[4] + " CHA " + stats[5]);
-// console.log("Skills: " + skills);
+console.log("Skills: " + skills);
 // console.log("Saves: " + saves);
 // console.log("Languages: " + languages);
 console.log("Weapon Proficiencies: " + weaponProficiencies);
@@ -150,6 +154,7 @@ function getCharacterClass() {
     const fileData = fs.readFileSync('aon-data/classes.json', 'utf8');
     const classes = JSON.parse(fileData);
     const randomIndex = Math.floor(Math.random() * classes.length);
+    // let randomIndex = 0; // for testing purposes
     const randomClassName = classes[randomIndex].name;
     
     //Check if spellcaster
@@ -175,18 +180,65 @@ function getCharacterClass() {
     saves[2][1] = classes[randomIndex].will_proficiency;
     
     //Skills
-    skills[16][1] = classes[randomIndex].perception_proficiency
-    // "Trained in  Crafting\nTrained in a number of additional skills equal to 3 plus your Intelligence modifier";
-    // let skillChoices = classes[randomIndex].skill_proficiency.split("\\n");
-    // console.log(skillChoices);
+    skills[0][1] = classes[randomIndex].acrobatics_proficiency;
+    skills[1][1] = classes[randomIndex].arcana_proficiency;
+    skills[2][1] = classes[randomIndex].atheletics_proficiency;
+    skills[3][1] = classes[randomIndex].crafting_proficiency;
+    skills[4][1] = classes[randomIndex].deception_proficiency;
+    skills[5][1] = classes[randomIndex].diplomacy_proficiency;
+    skills[6][1] = classes[randomIndex].intimidation_proficiency;
+    skills[7][1] = classes[randomIndex].medicine_proficiency;
+    skills[8][1] = classes[randomIndex].nature_proficiency;
+    skills[9][1] = classes[randomIndex].occultism_proficiency;
+    skills[10][1] = classes[randomIndex].performance_proficiency;
+    skills[11][1] = classes[randomIndex].religion_proficiency;
+    skills[12][1] = classes[randomIndex].society_proficiency;
+    skills[13][1] = classes[randomIndex].stealth_proficiency;
+    skills[14][1] = classes[randomIndex].survival_proficiency;
+    skills[15][1] = classes[randomIndex].thievery_proficiency;
+    skills[16][1] = classes[randomIndex].perception_proficiency;
+    additionalSkills = classes[randomIndex].additional_skills;
     
+    if (charClass == "Fighter") {
+        if (keyAbility == "Strength") {
+            skills[2][1] = "trained";
+        } else if (keyAbility == "Dexterity") {
+            skills[0][1] = "trained";
+        }
+    }
+    
+    for (let i = 0; i < skills.length; i++) {
+        if (skills[i][1] == undefined) {
+            skills[i][1] = "untrained";
+        }
+    }
+    
+    //Weapon Proficiencies
+    weaponProficiencies[0][1] = classes[randomIndex].unarmed_proficiency;
+    weaponProficiencies[1][1] = classes[randomIndex].simple_proficiency;
+    weaponProficiencies[2][1] = classes[randomIndex].martial_proficiency;
+    weaponProficiencies[3][1] = classes[randomIndex].advanced_proficiency;
+    
+    for (let i = 0; i < weaponProficiencies.length; i++) {
+        if (weaponProficiencies[i][1] == undefined) {
+            weaponProficiencies[i][1] = "untrained";
+        }
+    }
+    
+    //Armor Proficiencies
+    armorProficiencies[0][1] = classes[randomIndex].unarmored_proficiency;
+    armorProficiencies[1][1] = classes[randomIndex].light_proficiency;
+    armorProficiencies[2][1] = classes[randomIndex].medium_proficiency;
+    armorProficiencies[3][1] = classes[randomIndex].heavy_proficiency;
+    
+    for (let i = 0; i < armorProficiencies.length; i++) {
+        if (armorProficiencies[i][1] == undefined) {
+            armorProficiencies[i][1] = "untrained";
+        }
+    }
     
     
     return randomClassName;
-}
-
-function getSkills() {
-    
 }
 
 function getSaves() {
@@ -194,6 +246,24 @@ function getSaves() {
 
 function useFreeIntPoints() {
     let skillBoostsRemaining, languagesRemaining = stats[3]; //make json file for languages from excel table
+    
+    for (let i = 0; i < skillNames.length; i++) {
+        if (skills[i][1] != "untrained") {
+            skillNames = skillNames.filter(item => item !== skills[i][0]);
+        }
+    }
+    
+    // let backgroundSkillChoices = backgrounds[randomIndex].skill.split(", ");
+    // let skillIndex = skills.findIndex(skill => skill[0] === backgroundSkillChoices[0]);
+    // skills[skillIndex][1] = "trained";
+    // skills.push(backgroundSkillChoices[1] + " trained"); 
+    
+    for (let i = 0; i < skillBoostsRemaining + additionalSkills; i++) {         //UNFINISHED
+        let randomSkill = Math.floor(Math.random() * skillNames.length);
+        let skillIndex = skills.findIndex(skill => skill[0] === skillNames[randomSkill]);
+        skills[skillIndex][1] = "trained";
+
+    }
 }
 
 function getClassFeats() {
@@ -262,6 +332,14 @@ function getBackground() {
         increaseAbility(keyAbility); //increase from background
     }
     
+    //Skills
+    let backgroundSkillChoices = backgrounds[randomIndex].skill.split(", ");
+    let skillIndex = skills.findIndex(skill => skill[0] === backgroundSkillChoices[0]);
+    skills[skillIndex][1] = "trained";
+    skills.push(backgroundSkillChoices[1] + " trained"); 
+    
+    //Skill Feat
+    skillFeats.push(backgrounds[randomIndex].feat);
     
     return randomBackgroundName;
 }
@@ -330,11 +408,11 @@ function getSkillFeats() {
         }
     } 
     const fileData = fs.readFileSync('aon-data/feats-skill.json', 'utf8');
-    const skillFeats = JSON.parse(fileData);
-    const randomIndex = Math.floor(Math.random() * skillFeats.length);
-    const randomName = skillFeats[randomIndex].name;
+    const skillFeatsFile = JSON.parse(fileData);
+    const randomIndex = Math.floor(Math.random() * skillFeatsFile.length);
+    const randomName = skillFeatsFile[randomIndex].name;
     
-    return randomName + " " + skillFeats[randomIndex].level;
+    skillFeats.push(randomName);
 }
 
 function getAncestryFeats() {

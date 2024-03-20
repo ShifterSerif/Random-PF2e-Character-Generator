@@ -751,7 +751,7 @@
 	{
 		"name": "Saloon Entertainer",
 		"ability": "Dexterity, Charisma",
-		"skill": "Performance, Lore of your choice.",
+		"skill": "Performance, Lore of your choice",
 		"feat": "Virtuosic Performer",
 		"summary": "All you want to do is entertain the people, but sure enough, bad news seems to follow you. Gunfights, brawls, robberies, and more befall …"
 	},
