@@ -21,13 +21,13 @@ genFeatAmount = 0;
 skillFeatAmount = 0;
 charClass = getCharacterClass();
 ancestry = getAncestry();
-// background = getBackground();
+background = getBackground();
 ancestryFeats = getAncestryFeats();
 classFeats = getClassFeats();
 generalFeats = getGeneralFeats();
 skillFeats = getSkillFeats();
 gender = getGender();
-// useFreeBoosts();
+useFreeBoosts();
 hp += stats[2] * charLevel;
 console.log("Level: " + charLevel);
 console.log("Ancestry: " + ancestry);
@@ -52,45 +52,67 @@ function getGender() {
 function getAncestry() {
     const fileData = fs.readFileSync('aon-data/ancestries.json', 'utf8');
     const ancestries = JSON.parse(fileData);
-    const randomIndex = Math.floor(Math.random() * ancestries.length);
+    // const randomIndex = Math.floor(Math.random() * ancestries.length);
+    const randomIndex = 0;
     const randomAncestry = ancestries[randomIndex].name;
     
+    //HP
     hp += parseInt(ancestries[randomIndex].hp);
     
+    //Ability Boosts
     let ancestryAbilityChoices = ancestries[randomIndex].ability_boost.split(", ");
     let increasedKeyAbility = false;
     statNames = ["Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma"];
-    if (ancestryAbilityChoices.includes(keyAbility)) {
-        increaseAbility(keyAbility);
-        statNames = statNames.filter(item => item !== keyAbility);
-        ancestryAbilityChoices = ancestryAbilityChoices.filter(item => item !== keyAbility);
-        increasedKeyAbility = true;
-    }
-    while(ancestryAbilityChoices.length > 0) {                          //NOT FULLY WORKING
-        let randomStat = Math.floor(Math.random() * statNames.length);
-        
-        if (ancestryAbilityChoices[0] != "Free") {
+    
+    for (let i = 0; i < ancestryAbilityChoices.length; i++) {
+        if (ancestryAbilityChoices[i] != "Free") {
+            increaseAbility(ancestryAbilityChoices[i]);
+            if (ancestryAbilityChoices[i] == keyAbility) {
+                increasedKeyAbility = true;
+            }
+            statNames = statNames.filter(item => item !== ancestryAbilityChoices[i]);
+        } else { // If i is Free
             if (!increasedKeyAbility) {
                 increaseAbility(keyAbility);
-                increasedKeyAbility = false;
+                increasedKeyAbility = true;
                 statNames = statNames.filter(item => item !== keyAbility);
+            } else {
+                let randomStat = Math.floor(Math.random() * statNames.length);
+                increaseAbility(statNames[randomStat]);
+                statNames = statNames.filter(item => item !== statNames[randomStat]);
             }
-            else { increaseAbility(ancestryAbilityChoices[0]); }
-        } else {
-            increaseAbility(statNames[randomStat]);
         }
-        statNames = statNames.filter(item => item !== randomStat);
-        ancestryAbilityChoices = ancestryAbilityChoices.slice(1);
+        
+        
+    }
+    
+    //Ability Flaw
+    let flaw = ancestries[randomIndex].ability_flaw;
+    switch (flaw) {
+        case "Strength":
+            stats[0] -= 1;
+            break;
+        case "Dexterity":
+            stats[1] -= 1;
+            break;
+        case "Constitution":
+            stats[2] -= 1;
+            break;
+        case "Intelligence":
+            stats[3] -= 1;
+            break;
+        case "Wisdom":
+            stats[4] -= 1;
+            break;
+        case "Charisma":
+            stats[5] -= 1;
+            break;
+        default:
+            console.log("Error: Flaw not found");
+            break;
     }
     
     
-    let flaw = ancestries[randomIndex].ability_flaw;
-    if (flaw == "Strength") { stats[0] -= 1; }      
-    else if (flaw == "Dexterity") { stats[1] -= 1; }
-    else if (flaw == "Constitution") { stats[2] -= 1; }
-    else if (flaw == "Intelligence") { stats[3] -= 1; }
-    else if (flaw == "Wisdom") { stats[4] -= 1; }
-    else if (flaw == "Charisma") { stats[5] -= 1; }
     
     
     return randomAncestry;
@@ -130,23 +152,38 @@ function useFreeBoosts() {
     increaseAbility(keyAbility); //increase from free boost
     statNames = ["Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma"];
     statNames = statNames.filter(item => item !== keyAbility);
-    let nextStat = statNames[Math.floor(Math.random() * statNames.length)];
-    increaseAbility(nextStat);
-    statNames = statNames.filter(item => item !== nextStat);
-    nextStat = statNames[Math.floor(Math.random() * statNames.length)];
-    increaseAbility(nextStat);
-    statNames = statNames.filter(item => item !== nextStat);
-    nextStat = statNames[Math.floor(Math.random() * statNames.length)];
-    increaseAbility(nextStat);
+    
+    for (let i = 0; i < 3; i++) {
+        let randomStat = statNames[Math.floor(Math.random() * statNames.length)];
+        increaseAbility(randomStat);
+        statNames = statNames.filter(item => item !== randomStat);
+    }
 }
 
 function increaseAbility(ability) {
-    if (ability == "Strength") { stats[0] += 1; }      
-    else if (ability == "Dexterity") { stats[1] += 1; }
-    else if (ability == "Constitution") { stats[2] += 1; }
-    else if (ability == "Intelligence") { stats[3] += 1; }
-    else if (ability == "Wisdom") { stats[4] += 1; }
-    else if (ability == "Charisma") { stats[5] += 1; }
+    switch (ability) {
+        case "Strength":
+            stats[0] += 1;
+            break;
+        case "Dexterity":
+            stats[1] += 1;
+            break;
+        case "Constitution":
+            stats[2] += 1;
+            break;
+        case "Intelligence":
+            stats[3] += 1;
+            break;
+        case "Wisdom":
+            stats[4] += 1;
+            break;
+        case "Charisma":
+            stats[5] += 1;
+            break;
+        default:
+            console.log("Error: Ability not found");
+            break;
+    }
 }
 
 function getBackground() {
