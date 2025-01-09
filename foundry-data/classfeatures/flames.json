@@ -1,0 +1,57 @@
+{
+    "_id": "GTSvbFb36InvuH0w",
+    "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
+    "name": "Flames",
+    "system": {
+        "actionType": {
+            "value": "passive"
+        },
+        "actions": {
+            "value": null
+        },
+        "category": "classfeature",
+        "description": {
+            "value": "<p>Fire lives at the center of the world, the center of the sun, and the center of civilization. You might revere this elemental force, siphon power from the Elemental Plane of Fire, or venerate a collection of deities such as Asmodeus, Sarenrae, the Tian goddess of disasters and volcanoes Lady Nanbyo, or the elemental lord of fire Ymeri.</p>\n<p><strong>Granted Spells</strong> cantrip: @UUID[Compendium.pf2e.spells-srd.Item.Ignition]; 1st: @UUID[Compendium.pf2e.spells-srd.Item.Breathe Fire]; 2nd: @UUID[Compendium.pf2e.spells-srd.Item.Blazing Bolt]; 3rd: @UUID[Compendium.pf2e.spells-srd.Item.Fireball]</p>\n<p><strong>Revelation Spells</strong> initial: @UUID[Compendium.pf2e.spells-srd.Item.Incendiary Aura]; advanced: @UUID[Compendium.pf2e.spells-srd.Item.Whirling Flames]; greater: @UUID[Compendium.pf2e.spells-srd.Item.Flaming Fusillade]</p>\n<p><strong>Related Domains</strong> dust, fire, star, sun</p>\n<p><strong>Mystery Skill</strong> Acrobatics</p>\n<p><strong>Oracle Feat</strong> @UUID[Compendium.pf2e.feats-srd.Item.Foretell Harm]</p>\n<p>@UUID[Compendium.pf2e.classfeatures.Item.Curse of Engulfing Flames]</p>"
+        },
+        "level": {
+            "value": 1
+        },
+        "prerequisites": {
+            "value": []
+        },
+        "publication": {
+            "license": "ORC",
+            "remaster": true,
+            "title": "Pathfinder Player Core 2"
+        },
+        "rules": [
+            {
+                "key": "ActiveEffectLike",
+                "mode": "upgrade",
+                "path": "system.skills.acrobatics.rank",
+                "value": 1
+            },
+            {
+                "key": "GrantItem",
+                "predicate": [
+                    "class:oracle"
+                ],
+                "uuid": "Compendium.pf2e.feats-srd.Item.Foretell Harm"
+            },
+            {
+                "key": "GrantItem",
+                "uuid": "Compendium.pf2e.classfeatures.Item.Curse of Engulfing Flames"
+            }
+        ],
+        "traits": {
+            "otherTags": [
+                "oracle-mystery"
+            ],
+            "rarity": "common",
+            "value": [
+                "oracle"
+            ]
+        }
+    },
+    "type": "feat"
+}
